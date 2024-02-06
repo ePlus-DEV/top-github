@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"most-active-github-users-counter/github"
-	"most-active-github-users-counter/net"
+	"top-github/github"
+	"top-github/net"
 )
 
 func GithubTop(options Options) (github.GithubSearchResults, error) {

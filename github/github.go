@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"most-active-github-users-counter/net"
+	"top-github/net"
 )
 
 const root string = "https://api.github.com/"

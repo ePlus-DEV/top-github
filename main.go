@@ -7,8 +7,8 @@ import (
 	"log"
 	"os"
 
-	"most-active-github-users-counter/output"
-	"most-active-github-users-counter/top"
+	"top-github/output"
+	"top-github/top"
 )
 
 type arrayFlags []string

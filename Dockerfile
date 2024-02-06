@@ -10,7 +10,7 @@ RUN go get -d -v .
 RUN CGO_ENABLED=0 go install -v .
 
 FROM scratch
-COPY --from=go-builder /go/bin/most-active-github-users-counter /go/bin/most-active-github-users-counter
+COPY --from=go-builder /go/bin/top-github /go/bin/top-github
 COPY --from=ca-certs /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/
 
-ENTRYPOINT ["/go/bin/most-active-github-users-counter"]
+ENTRYPOINT ["/go/bin/top-github"]

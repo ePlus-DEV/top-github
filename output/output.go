@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"most-active-github-users-counter/github"
-	"most-active-github-users-counter/top"
+	"top-github/github"
+	"top-github/top"
 )
 
 type Format func(results github.GithubSearchResults, writer io.Writer, options top.Options) error

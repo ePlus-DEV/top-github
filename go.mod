@@ -1,4 +1,4 @@
-module most-active-github-users-counter
+module top-github
 
 go 1.17
 
