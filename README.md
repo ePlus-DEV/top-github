@@ -28,7 +28,7 @@ Contributions are accepted. Please report issues or make pull requests against e
 
 ### Why is this running on a different domain?
 
-The [original project](https://github.com/lauripiispanen/top-github) by [@lauripiispanen](https://github.com/lauripiispanen) seems to have been archived. I also thought that `committers.top` was a more appropriate domain name and quickly grabbed it :grinning:
+The [original project](https://github.com/lauripiispanen/most-active-github-users-counter) by [@lauripiispanen](https://github.com/lauripiispanen) seems to have been archived. I also thought that `committers.top` was a more appropriate domain name and quickly grabbed it :grinning:
 
 ### Why am I not on this list?
 

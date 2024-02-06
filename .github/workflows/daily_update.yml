@@ -39,7 +39,7 @@ jobs:
           }
 
           subprocess.run("mkdir -p rank_only", shell=True, check=True)
-          preset_data = subprocess.run(["top-github", "--list-presets"], capture_output=True, text=True).stdout
+          preset_data = subprocess.run(["most-active-github-users-counter", "--list-presets"], capture_output=True, text=True).stdout
           all_presets = dict([row.pop('preset'), row] for row in csv.DictReader(preset_data.split('\n')))
           regenerated = False
           to_process  = []
@@ -87,7 +87,7 @@ jobs:
           for key in to_process[0:MAX_IN_RUN]:
             print("Running: %s" % key)
             preset = flookup[key]
-            status = subprocess.run(["top-github", "--token", os.environ["GITHUB_TOKEN"], "--preset", preset, "--output", "yaml"], capture_output=True, text=True)
+            status = subprocess.run(["most-active-github-users-counter", "--token", os.environ["GITHUB_TOKEN"], "--preset", preset, "--output", "yaml"], capture_output=True, text=True)
             if status.returncode == 0:
               with open("_data/locations/%s.yml" % key, "w") as f:
                 f.write("page: %s.html\n%s" % (key, status.stdout))
