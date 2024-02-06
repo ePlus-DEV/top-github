@@ -1,4 +1,4 @@
-# committers.top badges
+# top-github.eplus.dev badges
 
 These are powered by a free [CloudFlare Workers](https://workers.cloudflare.com) plan and use the [Shields](https://shields.io) service to actually render the badge.
 
@@ -29,14 +29,14 @@ NOTE: I use [DNSControl](https://stackexchange.github.io/dnscontrol/) for managi
 var REGISTRAR  = NewRegistrar('none', 'NONE');
 var CLOUDFLARE = NewDnsProvider('cloudflare', 'CLOUDFLAREAPI', { manage_workers: true });
 
-D('committers.top', REGISTRAR, DnsProvider(CLOUDFLARE),
+D('top-github.eplus.dev', REGISTRAR, DnsProvider(CLOUDFLARE),
   ALIAS('@',          'ashkulz.github.io.'),
   CNAME('www',        'ashkulz.github.io.'),
   AAAA ('user-badge', '100::', CF_PROXY_ON),
   AAAA ('org-badge',  '100::', CF_PROXY_ON),
 
-  CF_WORKER_ROUTE("user-badge.committers.top/*", "user-badge"),
-  CF_WORKER_ROUTE("org-badge.committers.top/*", "org-badge")
+  CF_WORKER_ROUTE("user-badge.top-github.eplus.dev/*", "user-badge"),
+  CF_WORKER_ROUTE("org-badge.top-github.eplus.dev/*", "org-badge")
 )
 
 ```

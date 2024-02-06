@@ -19,7 +19,7 @@ async function handleRequest(request) {
       return Response.redirect(BASE_URL+"/"+route.groups["collection"]+"#"+route.groups["login"])
     } else {
       var rank = 1 + DATA[route.groups["collection"]].indexOf(route.groups["login"])
-      var badge = "committers.top rank-"+(rank == 0 ? "unranked-red" : "#"+rank+"-brightgreen")
+      var badge = "top-github.eplus.dev rank-"+(rank == 0 ? "unranked-red" : "#"+rank+"-brightgreen")
       var request = new Request("https://img.shields.io/badge/"+encodeURIComponent(badge))
       var response = await fetch(request)
       return new Response(response.body, response)
