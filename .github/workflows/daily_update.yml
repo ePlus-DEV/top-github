@@ -3,9 +3,9 @@ on:
   schedule: [{ cron: "*/5 * * * *" }]
   push: { branches: ["master", "main"] }
 
-name: daily update
+name: Update Top Rank
 permissions:
-  contents: write # We generate static HTML, JS, CSS so we need write access to the repo
+  contents: write
   pages: write
   id-token: write
 jobs:
