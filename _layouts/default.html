@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico"/>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision }}">
+    <meta name="viewport" content="width=device-width">
+
+    {% if page.sublocation %}
+      {% assign location = site.data.locations[page.location][page.sublocation] %}
+    {% else %}
+      {% assign location = site.data.locations[page.location] %}
+    {% endif %}
+
+    {% if location %}
+      <title>Most active GitHub users in {{location.title}}</title>
+      <meta name="description" content="A list of most active GitHub users in {{location.title}}."/>
+      <meta property="og:description" content="A list of most active GitHub users in {{location.title}}."/>
+      <meta name="twitter:description" content="A list of most active GitHub users in {{location.title}}."/>
+
+      <meta property="og:site_name" content="eplus.dev - Most active GitHub users in {{location.title}}"/>
+      <meta property="og:title" content="eplus.dev - Most active GitHub users in {{location.title}}"/>
+      <meta name="twitter:title" content="eplus.dev - Most active GitHub users in {{location.title}}"/>
+      <meta property="og:url" content="https://top-github.eplus.dev/{{location.page}}"/>
+      <link rel="canonical" href="https://top-github.eplus.dev/{{location.page}}">
+
+    {% else %}
+      <title>Most active GitHub users</title>
+      <meta name="description" content="A list of most active GitHub users in different cities/countries."/>
+      <meta property="og:description" content="A list of most active GitHub users in different cities/countries."/>
+      <meta name="twitter:description" content="A list of most active GitHub users in different cities/countries."/>
+
+      <meta property="og:site_name" content="eplus.dev - Most active GitHub users"/>
+      <meta property="og:title" content="eplus.dev - Most active GitHub users"/>
+      <meta name="twitter:title" content="eplus.dev - Most active GitHub users"/>
+      <meta property="og:url" content="https://top-github.eplus.dev/"/>
+      <link rel="canonical" href="https://top-github.eplus.dev/">
+
+    {% endif %}
+    <meta name="rating" content="Safe For Kids"/>
+    <meta name="author" content="Lauri Piispanen"/>
+    <meta name="robots" content="index,follow"/>
+    <meta name="robots" content="noodp"/>
+    <meta property="og:type" content="website"/>
+
+    <meta name="twitter:card" content="summary"/>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href=".">top-github.eplus.dev</a></h1>
+        <p>A list of the most active GitHub users</p>
+
+        <p class="view"><a href="https://github.com/ePlus-DEV/top-github"><img src="https://img.shields.io/github/stars/ePlus-DEV/top-github?style=social" /></a></p>
+        <ul class="share-buttons">
+            <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftop-github.eplus.dev%2F&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="/images/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
+            <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Ftop-github.eplus.dev%2F&text=:%20https%3A%2F%2Ftop-github.eplus.dev%2F" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="/images/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
+            <li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Ftop-github.eplus.dev%2F&title=" target="_blank" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Submit to Reddit" src="/images/social_flat_rounded_rects_svg/Reddit.svg"></a></li>
+            <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftop-github.eplus.dev%2F&title=&summary=&source=https%3A%2F%2Ftop-github.eplus.dev%2F" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Share on LinkedIn" src="/images/social_flat_rounded_rects_svg/LinkedIn.svg"></a></li>
+        </ul>
+
+      </header>
+      <section>
+
+        {% if location %}
+          <h1>Most active GitHub users in {{location.title}}</h1>
+          <p>
+            This is a list of most active GitHub users in {{location.title}} over the past year. Other countries/regions can be found <a href=".">here</a>.
+            This list was generated at <code>{{location.generated}}</code> and machine-readable JSON is available for:
+            <ul>
+              <li><a href="rank_only/{{page.location}}.json">rank-only with categories</a></li>
+            </ul>
+          </p>
+          <p>
+            This list is generated with <a href="https://github.com/ePlus-DEV/top-github">this</a> piece of code.
+            The logic is as follows (in pseudocode):
+          </p>
+          <p><pre><code>githubUsers.sort(_.followers){% if page.location != 'worldwide' %}
+           .filter(_.location == '{{location.title}}') {% endif %}
+           .take(1000)
+           .sort(_.contributions)
+           .take(256)</code></pre>
+          </p>
+          <p>
+          {% if page.mode == "commits" %}{% assign page_name = page.location %}
+            This list contains all public commits for each user.
+          {% elsif page.mode == "contributions" %}{% assign page_name = page.location | append: "_public" %}
+            This list contains all public contributions for each user.
+          {% else %}{% assign page_name = page.location | append: "_private" %}
+            This list contains all contributions for each user (public & private).
+          {% endif %}
+          There are <b>{{location.total_user_count}}</b> total users in the region and you need at least <b>{{location.min_followers_required}}</b> followers to be on this list.
+          </p>
+          <p>
+            Badges are also available, which you can include on your profile pages. Simply include the following markdown for users:
+            <pre><code>[![eplus.dev badge](https://user-badge.eplus.dev/{{page_name}}/USERNAME.svg)](https://user-badge.eplus.dev/{{page_name}}/USERNAME)</code></pre>
+            For organizations, you need to use a slightly different markup:
+            <pre><code>[![eplus.dev badge](https://org-badge.eplus.dev/{{page_name}}/ORGNAME.svg)](https://org-badge.eplus.dev/{{page_name}}/ORGNAME)</code></pre>
+            In case you aren't currently ranked on this page, you'll simply receive an "unranked" badge.
+          </p>
+          <p>
+            <ul class="mode-selector">
+              <li {% if page.mode == "commits" %} class="active"{% endif %}><a href="{{page.location}}">Commits</a></li>
+              <li {% if page.mode == "contributions" %} class="active"{% endif %}><a href="{{page.location}}_public">Contributions</a></li>
+              <li {% if page.mode == "all" %} class="active"{% endif %}><a href="{{page.location}}_private">All</a></li>
+            </ul>
+          </p>
+          <table class="users-list">
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>User</th>
+                <th>Contribs</th>
+                <th>Picture</th>
+              </tr>
+            </thead>
+            <tbody>
+
+          {% if page.mode == "commits" %}
+            {% assign users = location.users %}
+          {% elsif page.mode == "all" %}
+            {% assign users = location.private_users %}
+          {% else %}
+            {% assign users = location.users_public_contributions %}
+          {% endif %}
+
+          {% for user in users %}
+            <tr id="{{user.login}}">
+              <td>{{user.rank}}.</td>
+              <td><a href="https://github.com/{{user.login}}">{{user.login}}</a><br>({{user.name}})</td>
+              <td>{{user.contributions}}</td>
+              <td class="photo"><img data-src="{{user.avatarUrl}}&s=40" width="40" height="40" class="lazyload" alt="Avatar for {{user.login}}" /></td>
+            </tr>
+          {% endfor %}
+          </tbody>
+          </table>
+        </p>
+        <h3 id="organizations">Organizations</h3>
+        <p>
+        <table class="organizations-list">
+          <tr>
+            <th>Rank</th>
+            <th>Organization</th>
+            <th>Members</th>
+          </tr>
+
+        {% if page.mode == "commits" %}
+          {% assign organizations = location.organizations %}
+        {% elsif page.mode == "all" %}
+          {% assign organizations = location.private_organizations %}
+        {% else %}
+          {% assign organizations = location.public_contributions_organizations %}
+        {% endif %}
+        {% for org in organizations %}
+          <tr id="{{org.name}}">
+            <td>{{org.rank}}.</td>
+            <td><a href="https://github.com/{{org.name}}">{{org.name}}</a></td>
+            <td>{{org.membercount}}</td>
+          </tr>
+        {% endfor %}
+        </table>
+      </p>
+
+
+        {% endif %}
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> and was originally created by <a href="https://github.com/lauripiispanen/most-active-github-users-counter">lauripiispanen</a>.</p>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> with the <a href="https://github.com/pages-themes/minimal">minimal theme</a>.</small></p>
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' }}"></script>
+
+
+  <style type="text/css">
+  ul.share-buttons{
+    list-style: none;
+    padding: 0;
+  }
+
+  ul.share-buttons .sr-only {
+    position: absolute;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0;
+    border: 0;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+  }
+
+  ul.share-buttons img{
+    width: 32px;
+  }
+  </style>
+  <script src="{{ '/assets/js/lazysizes.min.js' }}" async></script>
+  </body>
+</html>
