@@ -19,10 +19,10 @@ A subset specific to each country/region is available on the individual page lin
 
 Badges are also available, which you can include on your profile pages. Simply include the following markdown for users:
 ```markdown
-[![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/REGION/USERNAME)
+[![eplus.dev badge](https://user-badge.eplus.dev/REGION/USERNAME.svg)](https://user-badge.eplus.dev/REGION/USERNAME)
 ```
 For organizations, you need to use a slightly different markup:
 ```markdown
-[![committers.top badge](https://org-badge.committers.top/REGION/ORGNAME.svg)](https://org-badge.committers.top/REGION/ORGNAME)
+[![eplus.dev badge](https://org-badge.eplus.dev/REGION/ORGNAME.svg)](https://org-badge.eplus.dev/REGION/ORGNAME)
 ```
 In case you aren't currently ranked for a given region, you'll simply receive an "unranked" badge.
