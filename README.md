@@ -1,4 +1,4 @@
-# [committers.top](https://committers.top)
+# [committers.top](https://top-github.eplus.dev)
 
 [![weekly updates](https://github.com/ashkulz/committers.top/actions/workflows/weekly_update.yml/badge.svg?branch=master)](https://github.com/ashkulz/committers.top/actions/workflows/weekly_update.yml)
 
