@@ -12,29 +12,27 @@ jobs:
   daily_update:
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: setup Go
+      - name: Setup Go
         uses: actions/setup-go@v2
         with:
           go-version: 1.17
-      - name: build latest binary
+      - name: Build latest binary
         run: go get -d -v . && CGO_ENABLED=0 go install -v .
-      - name: switch to gh-pages branch
+      - name: Switch to gh-pages branch
         run: |
           git checkout -b gh-pages origin/gh-pages
           git config user.name "eplus-bot"
           git config user.email "bot@eplus.dev"
-      - name: perform update and push commits (if applicable)
-        shell: python
-        env:
-          GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
+      - name: Perform update and push commits (if applicable)
         run: |
           import csv, datetime, glob, os, re, subprocess, sys
 
-          MAX_IN_RUN = 3
-          STALE_DAYS = 5
+          MAX_IN_RUN = 4
+          STALE_DAYS = 1
           GENERATED  = {
             "%s.md":                "---\ntype: location\nlocation: %s\nmode: commits\n---\n",
             "%s_private.md":        "---\ntype: location\nlocation: %s\nmode: all\n---\n",
