@@ -1230,7 +1230,7 @@ users_public_contributions:
     name: "Mafouz DIALLO"
     login: "fouzo09"
     avatarUrl: https://avatars.githubusercontent.com/u/46787062?u=ed9d84e430496de1fc24c0f9b81f64d988fa8bcc&v=4
-    contributions: 151
+    contributions: 152
     company: "GUB GROUP"
     organizations: ""
 
@@ -1267,20 +1267,20 @@ users_public_contributions:
     organizations: "vivadata,BuildForSDGCohort2,Nimba-Solution,babaata,codeurclub"
 
   - rank: 8
+    name: "Oury Diallo"
+    login: "ourystd"
+    avatarUrl: https://avatars.githubusercontent.com/u/38049900?u=d5d8c09373beecbb3247ab13df026158aa2efeaf&v=4
+    contributions: 84
+    company: "@Nimba-Solution "
+    organizations: "Nimba-Solution,codeurclub"
+
+  - rank: 9
     name: "Abdoulaye Camara"
     login: "mrrootc"
     avatarUrl: https://avatars.githubusercontent.com/u/113844422?u=c94200f786be00e87842aad6d8b02318197d628a&v=4
     contributions: 84
     company: ""
     organizations: ""
-
-  - rank: 9
-    name: "Oury Diallo"
-    login: "ourystd"
-    avatarUrl: https://avatars.githubusercontent.com/u/38049900?u=d5d8c09373beecbb3247ab13df026158aa2efeaf&v=4
-    contributions: 80
-    company: "@Nimba-Solution "
-    organizations: "Nimba-Solution,codeurclub"
 
   - rank: 10
     name: "TechOutlooks Sarl"
@@ -2424,7 +2424,7 @@ private_users:
     name: "Harouna Diallo"
     login: "hadpro24"
     avatarUrl: https://avatars.githubusercontent.com/u/36333565?u=e37c6e00f02de28fc1233a65a44df64415ec293c&v=4
-    contributions: 3284
+    contributions: 3296
     company: "Lead Tech, Way2Call"
     organizations: "vivadata,BuildForSDGCohort2,Nimba-Solution,babaata,codeurclub"
 
@@ -2432,7 +2432,7 @@ private_users:
     name: "Mamadou Alpha Bald\u00e9"
     login: "korbonya"
     avatarUrl: https://avatars.githubusercontent.com/u/61054482?u=71369f7dc7a85ee05257f05b189b468f8f6f8f51&v=4
-    contributions: 2619
+    contributions: 2631
     company: "Smart"
     organizations: ""
 
@@ -2440,7 +2440,7 @@ private_users:
     name: "Abdourahmane Jalloh"
     login: "aradradev"
     avatarUrl: https://avatars.githubusercontent.com/u/67812267?u=9e4a4065e8c0a52d75401cfde749b893ce9d2f27&v=4
-    contributions: 2040
+    contributions: 2044
     company: "Full-Stack Developer"
     organizations: ""
 
@@ -2456,7 +2456,7 @@ private_users:
     name: "Abdoulaye Camara"
     login: "mrrootc"
     avatarUrl: https://avatars.githubusercontent.com/u/113844422?u=c94200f786be00e87842aad6d8b02318197d628a&v=4
-    contributions: 560
+    contributions: 562
     company: ""
     organizations: ""
 
@@ -2464,7 +2464,7 @@ private_users:
     name: "Oury Diallo"
     login: "ourystd"
     avatarUrl: https://avatars.githubusercontent.com/u/38049900?u=d5d8c09373beecbb3247ab13df026158aa2efeaf&v=4
-    contributions: 549
+    contributions: 553
     company: "@Nimba-Solution "
     organizations: "Nimba-Solution,codeurclub"
 
@@ -2480,7 +2480,7 @@ private_users:
     name: "Mafouz DIALLO"
     login: "fouzo09"
     avatarUrl: https://avatars.githubusercontent.com/u/46787062?u=ed9d84e430496de1fc24c0f9b81f64d988fa8bcc&v=4
-    contributions: 261
+    contributions: 262
     company: "GUB GROUP"
     organizations: ""
 
@@ -2520,7 +2520,7 @@ private_users:
     name: "Jules Thea"
     login: "Zakui"
     avatarUrl: https://avatars.githubusercontent.com/u/17543818?u=a54599e9d26a8ee0b0973057a38dc1e82170d3dd&v=4
-    contributions: 99
+    contributions: 100
     company: "@dntech17"
     organizations: ""
 
@@ -3639,103 +3639,61 @@ organizations:
     membercount: 2
 
   - rank: 3
-    name: "buildforsdgcohort2"
-    membercount: 1
-
-  - rank: 4
-    name: "wind-unix"
-    membercount: 1
-
-  - rank: 5
-    name: "neoledge"
-    membercount: 1
-
-  - rank: 6
-    name: "dntech17"
-    membercount: 1
-
-  - rank: 7
-    name: "indabax-guinea"
-    membercount: 1
-
-  - rank: 8
     name: "babaata"
     membercount: 1
 
-  - rank: 9
+  - rank: 4
     name: "monmiel"
     membercount: 1
 
-  - rank: 10
+  - rank: 5
+    name: "wind-unix"
+    membercount: 1
+
+  - rank: 6
+    name: "vivadata"
+    membercount: 1
+
+  - rank: 7
+    name: "buildforsdgcohort2"
+    membercount: 1
+
+  - rank: 8
+    name: "dntech17"
+    membercount: 1
+
+  - rank: 9
     name: "bahjanti"
+    membercount: 1
+
+  - rank: 10
+    name: "indabax-guinea"
     membercount: 1
 
 public_contributions_organizations:
 
   - rank: 1
-    name: "nimba-solution"
-    membercount: 2
-
-  - rank: 2
     name: "codeurclub"
     membercount: 2
 
-  - rank: 3
-    name: "neoledge"
-    membercount: 1
+  - rank: 2
+    name: "nimba-solution"
+    membercount: 2
 
-  - rank: 4
+  - rank: 3
     name: "bahjanti"
     membercount: 1
 
-  - rank: 5
-    name: "indabax-guinea"
-    membercount: 1
-
-  - rank: 6
-    name: "dntech17"
-    membercount: 1
-
-  - rank: 7
-    name: "wind-unix"
-    membercount: 1
-
-  - rank: 8
-    name: "vivadata"
-    membercount: 1
-
-  - rank: 9
-    name: "buildforsdgcohort2"
-    membercount: 1
-
-  - rank: 10
-    name: "babaata"
-    membercount: 1
-
-private_organizations:
-
-  - rank: 1
-    name: "codeurclub"
-    membercount: 2
-
-  - rank: 2
-    name: "nimba-solution"
-    membercount: 2
-
-  - rank: 3
-    name: "indabax-guinea"
-    membercount: 1
-
   - rank: 4
-    name: "wind-unix"
-    membercount: 1
-
-  - rank: 5
     name: "dntech17"
     membercount: 1
 
-  - rank: 6
+  - rank: 5
     name: "neoledge"
+    membercount: 1
+
+  - rank: 6
+    name: "indabax-guinea"
     membercount: 1
 
   - rank: 7
@@ -3743,17 +3701,59 @@ private_organizations:
     membercount: 1
 
   - rank: 8
-    name: "vivadata"
+    name: "wind-unix"
     membercount: 1
 
   - rank: 9
-    name: "buildforsdgcohort2"
+    name: "vivadata"
     membercount: 1
 
   - rank: 10
+    name: "buildforsdgcohort2"
+    membercount: 1
+
+private_organizations:
+
+  - rank: 1
+    name: "nimba-solution"
+    membercount: 2
+
+  - rank: 2
+    name: "codeurclub"
+    membercount: 2
+
+  - rank: 3
+    name: "wind-unix"
+    membercount: 1
+
+  - rank: 4
+    name: "bahjanti"
+    membercount: 1
+
+  - rank: 5
+    name: "vivadata"
+    membercount: 1
+
+  - rank: 6
+    name: "buildforsdgcohort2"
+    membercount: 1
+
+  - rank: 7
+    name: "monmiel"
+    membercount: 1
+
+  - rank: 8
     name: "babaata"
     membercount: 1
-generated: 2024-03-15T05:29:18Z
+
+  - rank: 9
+    name: "indabax-guinea"
+    membercount: 1
+
+  - rank: 10
+    name: "dntech17"
+    membercount: 1
+generated: 2024-03-17T05:18:11Z
 min_followers_required: 0
 total_user_count: 151
 title: Guinea
