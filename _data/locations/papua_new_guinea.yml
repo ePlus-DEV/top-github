@@ -5,7 +5,7 @@ users:
     name: "Glen G Hayoge"
     login: "glenhayoge"
     avatarUrl: https://avatars.githubusercontent.com/u/10877530?u=a22b7f08f94e1a4fea2fc1dbdc8862d778fc5da9&v=4
-    contributions: 336
+    contributions: 339
     company: "Dzagoo Digital Technologies-https://dzagoo.com"
     organizations: ""
 
@@ -13,7 +13,7 @@ users:
     name: "Victor Volsavai"
     login: "Valdaz007"
     avatarUrl: https://avatars.githubusercontent.com/u/59840456?u=a267431be0a1092f3007c1f56a2e994401dd6973&v=4
-    contributions: 255
+    contributions: 259
     company: "Next Town Technology Ltd"
     organizations: ""
 
@@ -74,14 +74,6 @@ users:
     organizations: ""
 
   - rank: 10
-    name: "Elias Lihai"
-    login: "CodeMaster2251"
-    avatarUrl: https://avatars.githubusercontent.com/u/153223708?u=920de9d041be55ea0f97e31727bc02621bcd755e&v=4
-    contributions: 76
-    company: "@eliastech"
-    organizations: ""
-
-  - rank: 11
     name: "Loi Wai"
     login: "loiwai"
     avatarUrl: https://avatars.githubusercontent.com/u/65390171?v=4
@@ -89,11 +81,19 @@ users:
     company: ""
     organizations: ""
 
+  - rank: 11
+    name: "Elias Lihai"
+    login: "CodeMaster2251"
+    avatarUrl: https://avatars.githubusercontent.com/u/153223708?u=920de9d041be55ea0f97e31727bc02621bcd755e&v=4
+    contributions: 76
+    company: "@eliastech"
+    organizations: ""
+
   - rank: 12
     name: "Gabriel Baje"
     login: "lordgabriel98"
     avatarUrl: https://avatars.githubusercontent.com/u/62271314?u=2e7c1ef2eb22540ac121cb657e6cdce1893f89c6&v=4
-    contributions: 62
+    contributions: 63
     company: ""
     organizations: ""
 
@@ -210,14 +210,6 @@ users:
     organizations: ""
 
   - rank: 27
-    name: "EmbakaiTech"
-    login: "embakaitech"
-    avatarUrl: https://avatars.githubusercontent.com/u/153542566?u=c3b67eb12b4fbd28264198a170145be244cdfa78&v=4
-    contributions: 6
-    company: "EmbakaiTech"
-    organizations: ""
-
-  - rank: 28
     name: "Randall Paiva"
     login: "randallpaiva"
     avatarUrl: https://avatars.githubusercontent.com/u/40220799?u=3659cbd704831165eafb0b8c11c02ba24989aa4e&v=4
@@ -225,15 +217,15 @@ users:
     company: "TechShop Ltd"
     organizations: ""
 
-  - rank: 29
-    name: "Gideon Zozingao"
-    login: "gideonzozingao"
-    avatarUrl: https://avatars.githubusercontent.com/u/126525621?u=2f1ca0b13da7a62161ba915725c9b3a0c40253e0&v=4
-    contributions: 5
-    company: "Vodafone PNG"
+  - rank: 28
+    name: "EmbakaiTech"
+    login: "embakaitech"
+    avatarUrl: https://avatars.githubusercontent.com/u/153542566?u=c3b67eb12b4fbd28264198a170145be244cdfa78&v=4
+    contributions: 6
+    company: "EmbakaiTech"
     organizations: ""
 
-  - rank: 30
+  - rank: 29
     name: "Sylver Yagi"
     login: "sylvery"
     avatarUrl: https://avatars.githubusercontent.com/u/6283107?u=4d8b33861f5abe5c9d1410cf5de22859a0ef3e50&v=4
@@ -241,7 +233,7 @@ users:
     company: "Sudo Tech"
     organizations: "sudotechweb"
 
-  - rank: 31
+  - rank: 30
     name: "n30dyn4m1c"
     login: "n30dyn4m1c"
     avatarUrl: https://avatars.githubusercontent.com/u/29080183?u=607c08e82df909b305c0ef5d8ef0158ccfe7d8a2&v=4
@@ -249,20 +241,28 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 32
-    name: "JML"
-    login: "JohnMcLaren"
-    avatarUrl: https://avatars.githubusercontent.com/u/10256841?u=4fee6320e0f3b5f1ccfe6a2a4f22cc318587517e&v=4
-    contributions: 5
-    company: ""
-    organizations: ""
-
-  - rank: 33
+  - rank: 31
     name: "Nathaniel Yamis "
     login: "nathanpyamis"
     avatarUrl: https://avatars.githubusercontent.com/u/134503553?v=4
     contributions: 5
     company: "Datec PNG"
+    organizations: ""
+
+  - rank: 32
+    name: "Gideon Zozingao"
+    login: "gideonzozingao"
+    avatarUrl: https://avatars.githubusercontent.com/u/126525621?u=2f1ca0b13da7a62161ba915725c9b3a0c40253e0&v=4
+    contributions: 5
+    company: "Vodafone PNG"
+    organizations: ""
+
+  - rank: 33
+    name: "JML"
+    login: "JohnMcLaren"
+    avatarUrl: https://avatars.githubusercontent.com/u/10256841?u=4fee6320e0f3b5f1ccfe6a2a4f22cc318587517e&v=4
+    contributions: 5
+    company: ""
     organizations: ""
 
   - rank: 34
@@ -1434,6 +1434,14 @@ users:
     organizations: ""
 
   - rank: 180
+    name: "solsar"
+    login: "solsar2019"
+    avatarUrl: https://avatars.githubusercontent.com/u/55769147?u=0f9b4f35bde13954f936f53b9a9d084496208ac7&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 181
     name: "A Donald"
     login: "ADonald63"
     avatarUrl: https://avatars.githubusercontent.com/u/147122703?u=f38b44a57fca32855af4c6395c8f30c00abe691e&v=4
@@ -1441,20 +1449,12 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 181
+  - rank: 182
     name: "Alefay Kombil"
     login: "alefay-SM"
     avatarUrl: https://avatars.githubusercontent.com/u/85604390?u=9a3c55a218f25dd92fe0781aced8aa163102714f&v=4
     contributions: 0
     company: "SwitchMaven"
-    organizations: ""
-
-  - rank: 182
-    name: "solsar"
-    login: "solsar2019"
-    avatarUrl: https://avatars.githubusercontent.com/u/55769147?u=0f9b4f35bde13954f936f53b9a9d084496208ac7&v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
   - rank: 183
@@ -2054,7 +2054,7 @@ users_public_contributions:
     name: "Glen G Hayoge"
     login: "glenhayoge"
     avatarUrl: https://avatars.githubusercontent.com/u/10877530?u=a22b7f08f94e1a4fea2fc1dbdc8862d778fc5da9&v=4
-    contributions: 348
+    contributions: 352
     company: "Dzagoo Digital Technologies-https://dzagoo.com"
     organizations: ""
 
@@ -2070,7 +2070,7 @@ users_public_contributions:
     name: "Victor Volsavai"
     login: "Valdaz007"
     avatarUrl: https://avatars.githubusercontent.com/u/59840456?u=a267431be0a1092f3007c1f56a2e994401dd6973&v=4
-    contributions: 272
+    contributions: 276
     company: "Next Town Technology Ltd"
     organizations: ""
 
@@ -2126,7 +2126,7 @@ users_public_contributions:
     name: "Gabriel Baje"
     login: "lordgabriel98"
     avatarUrl: https://avatars.githubusercontent.com/u/62271314?u=2e7c1ef2eb22540ac121cb657e6cdce1893f89c6&v=4
-    contributions: 85
+    contributions: 86
     company: ""
     organizations: ""
 
@@ -2427,11 +2427,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 48
-    name: "Jomega NINGI"
-    login: "Jomega743ct"
-    avatarUrl: https://avatars.githubusercontent.com/u/140298218?u=862bc99489a79533d31b5daf28d900755b4ece17&v=4
+    name: "\u01de\u0584\u0585 \u0189\u025b\u028b\u0268\u029f"
+    login: "2021diru"
+    avatarUrl: https://avatars.githubusercontent.com/u/79296280?u=f9b6c6d6fe785ea51ed467feb75659c3b5100c69&v=4
     contributions: 4
-    company: "Divine Word University"
+    company: ""
     organizations: ""
 
   - rank: 49
@@ -2443,11 +2443,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 50
-    name: "\u01de\u0584\u0585 \u0189\u025b\u028b\u0268\u029f"
-    login: "2021diru"
-    avatarUrl: https://avatars.githubusercontent.com/u/79296280?u=f9b6c6d6fe785ea51ed467feb75659c3b5100c69&v=4
+    name: "Jomega NINGI"
+    login: "Jomega743ct"
+    avatarUrl: https://avatars.githubusercontent.com/u/140298218?u=862bc99489a79533d31b5daf28d900755b4ece17&v=4
     contributions: 4
-    company: ""
+    company: "Divine Word University"
     organizations: ""
 
   - rank: 51
@@ -3483,6 +3483,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 180
+    name: "solsar"
+    login: "solsar2019"
+    avatarUrl: https://avatars.githubusercontent.com/u/55769147?u=0f9b4f35bde13954f936f53b9a9d084496208ac7&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 181
     name: "Jonathan Bagua"
     login: "jbagua"
     avatarUrl: https://avatars.githubusercontent.com/u/77943248?u=54a0dd7d491debc973f987bf1673d794911a8911&v=4
@@ -3490,20 +3498,12 @@ users_public_contributions:
     company: "Switch Maven"
     organizations: ""
 
-  - rank: 181
+  - rank: 182
     name: "shopsmartPNG"
     login: "shopsmartpng"
     avatarUrl: https://avatars.githubusercontent.com/u/75776643?u=1b3654f0372723e815ae421eb92fd7606edd6761&v=4
     contributions: 0
     company: "Shopsmartpng"
-    organizations: ""
-
-  - rank: 182
-    name: "solsar"
-    login: "solsar2019"
-    avatarUrl: https://avatars.githubusercontent.com/u/55769147?u=0f9b4f35bde13954f936f53b9a9d084496208ac7&v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
   - rank: 183
@@ -4104,7 +4104,7 @@ private_users:
     name: "Glen G Hayoge"
     login: "glenhayoge"
     avatarUrl: https://avatars.githubusercontent.com/u/10877530?u=a22b7f08f94e1a4fea2fc1dbdc8862d778fc5da9&v=4
-    contributions: 1296
+    contributions: 1300
     company: "Dzagoo Digital Technologies-https://dzagoo.com"
     organizations: ""
 
@@ -4112,7 +4112,7 @@ private_users:
     name: "Crystal Kewe"
     login: "cravenhoff"
     avatarUrl: https://avatars.githubusercontent.com/u/49733508?u=afe6c11108966803fa143577a06d4ba2b67a4938&v=4
-    contributions: 847
+    contributions: 856
     company: "Crysan Technology Ltd"
     organizations: ""
 
@@ -4152,7 +4152,7 @@ private_users:
     name: "Victor Volsavai"
     login: "Valdaz007"
     avatarUrl: https://avatars.githubusercontent.com/u/59840456?u=a267431be0a1092f3007c1f56a2e994401dd6973&v=4
-    contributions: 272
+    contributions: 276
     company: "Next Town Technology Ltd"
     organizations: ""
 
@@ -4189,18 +4189,18 @@ private_users:
     organizations: ""
 
   - rank: 12
-    name: ""
-    login: "wilfred-wulbou"
-    avatarUrl: https://avatars.githubusercontent.com/u/25276623?u=8b59b8b0df995d1d7985d05f0931706975098cfd&v=4
+    name: "Gabriel Baje"
+    login: "lordgabriel98"
+    avatarUrl: https://avatars.githubusercontent.com/u/62271314?u=2e7c1ef2eb22540ac121cb657e6cdce1893f89c6&v=4
     contributions: 105
     company: ""
     organizations: ""
 
   - rank: 13
-    name: "Gabriel Baje"
-    login: "lordgabriel98"
-    avatarUrl: https://avatars.githubusercontent.com/u/62271314?u=2e7c1ef2eb22540ac121cb657e6cdce1893f89c6&v=4
-    contributions: 104
+    name: ""
+    login: "wilfred-wulbou"
+    avatarUrl: https://avatars.githubusercontent.com/u/25276623?u=8b59b8b0df995d1d7985d05f0931706975098cfd&v=4
+    contributions: 105
     company: ""
     organizations: ""
 
@@ -4229,19 +4229,19 @@ private_users:
     organizations: ""
 
   - rank: 17
-    name: "Elias Lihai"
-    login: "CodeMaster2251"
-    avatarUrl: https://avatars.githubusercontent.com/u/153223708?u=920de9d041be55ea0f97e31727bc02621bcd755e&v=4
-    contributions: 81
-    company: "@eliastech"
-    organizations: ""
-
-  - rank: 18
     name: "Jeremy Kes Palme "
     login: "jeremykes"
     avatarUrl: https://avatars.githubusercontent.com/u/17040336?u=95f9754a59cfbe9f20cb2620fc7b1ae9e54b90aa&v=4
     contributions: 81
     company: "Skoonters"
+    organizations: ""
+
+  - rank: 18
+    name: "Elias Lihai"
+    login: "CodeMaster2251"
+    avatarUrl: https://avatars.githubusercontent.com/u/153223708?u=920de9d041be55ea0f97e31727bc02621bcd755e&v=4
+    contributions: 81
+    company: "@eliastech"
     organizations: ""
 
   - rank: 19
@@ -5533,6 +5533,14 @@ private_users:
     organizations: ""
 
   - rank: 180
+    name: "solsar"
+    login: "solsar2019"
+    avatarUrl: https://avatars.githubusercontent.com/u/55769147?u=0f9b4f35bde13954f936f53b9a9d084496208ac7&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 181
     name: "Kilian Slaves"
     login: "Yomai"
     avatarUrl: https://avatars.githubusercontent.com/u/5555245?v=4
@@ -5540,20 +5548,12 @@ private_users:
     company: "Shoreline Technology"
     organizations: ""
 
-  - rank: 181
+  - rank: 182
     name: "Pierre Elias c5v.org"
     login: "pierrelias"
     avatarUrl: https://avatars.githubusercontent.com/u/44911445?u=9a9d22a5eb8585aa4ef1e0f92dc7a92a3235212a&v=4
     contributions: 0
     company: "cOGnIT APAC c5v.org"
-    organizations: ""
-
-  - rank: 182
-    name: "solsar"
-    login: "solsar2019"
-    avatarUrl: https://avatars.githubusercontent.com/u/55769147?u=0f9b4f35bde13954f936f53b9a9d084496208ac7&v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
   - rank: 183
@@ -6177,27 +6177,27 @@ organizations:
 public_contributions_organizations:
 
   - rank: 1
-    name: "digitalkumul411"
+    name: "esystems"
     membercount: 1
 
   - rank: 2
-    name: "coding-robotics-club"
+    name: "digitalkumul411"
     membercount: 1
 
   - rank: 3
-    name: "fantastixpng"
+    name: "coding-robotics-club"
     membercount: 1
 
   - rank: 4
-    name: "eliastech"
+    name: "fantastixpng"
     membercount: 1
 
   - rank: 5
-    name: "sudotechweb"
+    name: "eliastech"
     membercount: 1
 
   - rank: 6
-    name: "esystems"
+    name: "sudotechweb"
     membercount: 1
 
 private_organizations:
@@ -6225,7 +6225,7 @@ private_organizations:
   - rank: 6
     name: "esystems"
     membercount: 1
-generated: 2024-03-15T09:35:22Z
+generated: 2024-03-17T08:41:05Z
 min_followers_required: 0
 total_user_count: 351
 title: Papua New Guinea
