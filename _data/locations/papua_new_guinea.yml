@@ -21,7 +21,7 @@ users:
     name: "Rex Makusia"
     login: "grecpt"
     avatarUrl: https://avatars.githubusercontent.com/u/138628498?u=af2d005de5c366b588d352bdcf9c419bff03f34b&v=4
-    contributions: 159
+    contributions: 173
     company: "BSP Financial Group Limited"
     organizations: ""
 
@@ -93,7 +93,7 @@ users:
     name: "Moses Kumie"
     login: "mkumie"
     avatarUrl: https://avatars.githubusercontent.com/u/27809097?u=1d606d6cd31cba57e65f3e833d301ebeea7cd152&v=4
-    contributions: 68
+    contributions: 69
     company: "Hobbyist"
     organizations: ""
 
@@ -157,7 +157,7 @@ users:
     name: "Pala Egora"
     login: "PalaPascoh"
     avatarUrl: https://avatars.githubusercontent.com/u/165354163?u=db2d6b8b6196510e4c5baed622742ba897b9ebe9&v=4
-    contributions: 30
+    contributions: 31
     company: ""
     organizations: ""
 
@@ -234,20 +234,20 @@ users:
     organizations: ""
 
   - rank: 30
-    name: "Sylver Yagi"
-    login: "sylvery"
-    avatarUrl: https://avatars.githubusercontent.com/u/6283107?u=4d8b33861f5abe5c9d1410cf5de22859a0ef3e50&v=4
-    contributions: 5
-    company: "Sudo Tech"
-    organizations: "sudotechweb"
-
-  - rank: 31
     name: "Gideon Zozingao"
     login: "gideonzozingao"
     avatarUrl: https://avatars.githubusercontent.com/u/126525621?u=2f1ca0b13da7a62161ba915725c9b3a0c40253e0&v=4
     contributions: 5
     company: "Vodafone PNG"
     organizations: ""
+
+  - rank: 31
+    name: "Sylver Yagi"
+    login: "sylvery"
+    avatarUrl: https://avatars.githubusercontent.com/u/6283107?u=4d8b33861f5abe5c9d1410cf5de22859a0ef3e50&v=4
+    contributions: 5
+    company: "Sudo Tech"
+    organizations: "sudotechweb"
 
   - rank: 32
     name: "EmexNatera"
@@ -450,14 +450,6 @@ users:
     organizations: ""
 
   - rank: 57
-    name: ""
-    login: "jemanuel-perez"
-    avatarUrl: https://avatars.githubusercontent.com/u/16753515?v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 58
     name: "Mangbiang Eide"
     login: "Mangbiang"
     avatarUrl: https://avatars.githubusercontent.com/u/154095034?v=4
@@ -465,7 +457,7 @@ users:
     company: "NCS (K92 Gold Mine)"
     organizations: ""
 
-  - rank: 59
+  - rank: 58
     name: "Mark Johnnah"
     login: "mjohnnah"
     avatarUrl: https://avatars.githubusercontent.com/u/13776646?u=4cddcf83b104f9b87a8447074df6c1a503d5fa15&v=4
@@ -473,12 +465,20 @@ users:
     company: "Switch Maven PNG"
     organizations: ""
 
-  - rank: 60
+  - rank: 59
     name: "MOSES GARI"
     login: "Garimoses"
     avatarUrl: https://avatars.githubusercontent.com/u/161659825?u=c3716955be33e3bfb2ffbcf9b57144e05dcafeb3&v=4
     contributions: 1
     company: "EYECARE PLUS LTD"
+    organizations: ""
+
+  - rank: 60
+    name: ""
+    login: "jemanuel-perez"
+    avatarUrl: https://avatars.githubusercontent.com/u/16753515?v=4
+    contributions: 1
+    company: ""
     organizations: ""
 
   - rank: 61
@@ -2070,7 +2070,7 @@ users_public_contributions:
     name: "Rex Makusia"
     login: "grecpt"
     avatarUrl: https://avatars.githubusercontent.com/u/138628498?u=af2d005de5c366b588d352bdcf9c419bff03f34b&v=4
-    contributions: 174
+    contributions: 190
     company: "BSP Financial Group Limited"
     organizations: ""
 
@@ -2126,7 +2126,7 @@ users_public_contributions:
     name: "Moses Kumie"
     login: "mkumie"
     avatarUrl: https://avatars.githubusercontent.com/u/27809097?u=1d606d6cd31cba57e65f3e833d301ebeea7cd152&v=4
-    contributions: 81
+    contributions: 82
     company: "Hobbyist"
     organizations: ""
 
@@ -2214,11 +2214,19 @@ users_public_contributions:
     name: "Pala Egora"
     login: "PalaPascoh"
     avatarUrl: https://avatars.githubusercontent.com/u/165354163?u=db2d6b8b6196510e4c5baed622742ba897b9ebe9&v=4
-    contributions: 45
+    contributions: 46
     company: ""
     organizations: ""
 
   - rank: 22
+    name: "S\u00e4\u00ebg"
+    login: "saeej"
+    avatarUrl: https://avatars.githubusercontent.com/u/21030349?v=4
+    contributions: 39
+    company: ""
+    organizations: ""
+
+  - rank: 23
     name: "Julius Tuckayo"
     login: "jtuckayo"
     avatarUrl: https://avatars.githubusercontent.com/u/31755955?u=2c7199fbaf841441e24bbc3ccc16e3b9b258471c&v=4
@@ -2226,28 +2234,20 @@ users_public_contributions:
     company: "Nasfund"
     organizations: ""
 
-  - rank: 23
-    name: "S\u00e4\u00ebg"
-    login: "saeej"
-    avatarUrl: https://avatars.githubusercontent.com/u/21030349?v=4
-    contributions: 33
-    company: ""
-    organizations: ""
-
   - rank: 24
-    name: "Shirley Komogi"
-    login: "shkomogi"
-    avatarUrl: https://avatars.githubusercontent.com/u/88008991?u=fab5a0efd65e21b993e2361315c0f7a7344e03c4&v=4
-    contributions: 17
-    company: "@CentreOfExcellenceinIT @UPNG"
-    organizations: ""
-
-  - rank: 25
     name: "Emmanuel Kokele"
     login: "Emmanue707"
     avatarUrl: https://avatars.githubusercontent.com/u/71161820?u=3a2eca74aecf12a66c57ef38251797457d96c643&v=4
     contributions: 17
     company: "Waghi Tech"
+    organizations: ""
+
+  - rank: 25
+    name: "Shirley Komogi"
+    login: "shkomogi"
+    avatarUrl: https://avatars.githubusercontent.com/u/88008991?u=fab5a0efd65e21b993e2361315c0f7a7344e03c4&v=4
+    contributions: 17
+    company: "@CentreOfExcellenceinIT @UPNG"
     organizations: ""
 
   - rank: 26
@@ -2275,19 +2275,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 29
-    name: "EmbakaiTech"
-    login: "embakaitech"
-    avatarUrl: https://avatars.githubusercontent.com/u/153542566?u=c3b67eb12b4fbd28264198a170145be244cdfa78&v=4
-    contributions: 9
-    company: "EmbakaiTech"
-    organizations: ""
-
-  - rank: 30
     name: "Jarnen Richard"
     login: "Jarnen"
     avatarUrl: https://avatars.githubusercontent.com/u/44821530?u=23fda726cadc5f78aa698f9a60d60ede846310e5&v=4
     contributions: 9
     company: "Jarich Technologies"
+    organizations: ""
+
+  - rank: 30
+    name: "EmbakaiTech"
+    login: "embakaitech"
+    avatarUrl: https://avatars.githubusercontent.com/u/153542566?u=c3b67eb12b4fbd28264198a170145be244cdfa78&v=4
+    contributions: 9
+    company: "EmbakaiTech"
     organizations: ""
 
   - rank: 31
@@ -2299,6 +2299,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 32
+    name: ""
+    login: "jemanuel-perez"
+    avatarUrl: https://avatars.githubusercontent.com/u/16753515?v=4
+    contributions: 8
+    company: ""
+    organizations: ""
+
+  - rank: 33
     name: "Nathaniel Yamis "
     login: "nathanpyamis"
     avatarUrl: https://avatars.githubusercontent.com/u/134503553?v=4
@@ -2306,18 +2314,10 @@ users_public_contributions:
     company: "Datec PNG"
     organizations: ""
 
-  - rank: 33
+  - rank: 34
     name: "EmexNatera"
     login: "Enatera95"
     avatarUrl: https://avatars.githubusercontent.com/u/86398247?v=4
-    contributions: 8
-    company: ""
-    organizations: ""
-
-  - rank: 34
-    name: ""
-    login: "jemanuel-perez"
-    avatarUrl: https://avatars.githubusercontent.com/u/16753515?v=4
     contributions: 8
     company: ""
     organizations: ""
@@ -2331,6 +2331,14 @@ users_public_contributions:
     organizations: ""
 
   - rank: 36
+    name: "John Johnson"
+    login: "John-Johns0n"
+    avatarUrl: https://avatars.githubusercontent.com/u/84598043?v=4
+    contributions: 6
+    company: "Snakes & Foxes"
+    organizations: ""
+
+  - rank: 37
     name: "Alexey Ivanov"
     login: "alexey-ivanov-official"
     avatarUrl: https://avatars.githubusercontent.com/u/17964395?v=4
@@ -2338,20 +2346,12 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 37
+  - rank: 38
     name: "Randall Paiva"
     login: "randallpaiva"
     avatarUrl: https://avatars.githubusercontent.com/u/40220799?u=3659cbd704831165eafb0b8c11c02ba24989aa4e&v=4
     contributions: 6
     company: "TechShop Ltd"
-    organizations: ""
-
-  - rank: 38
-    name: "John Johnson"
-    login: "John-Johns0n"
-    avatarUrl: https://avatars.githubusercontent.com/u/84598043?v=4
-    contributions: 6
-    company: "Snakes & Foxes"
     organizations: ""
 
   - rank: 39
@@ -2363,9 +2363,9 @@ users_public_contributions:
     organizations: ""
 
   - rank: 40
-    name: "Wilke"
-    login: "wilkeleon"
-    avatarUrl: https://avatars.githubusercontent.com/u/141333290?u=0fb485fda1e4cb8a2f06f58a232c87652d30b20d&v=4
+    name: "Gideon Zozingao"
+    login: "zuqongtech"
+    avatarUrl: https://avatars.githubusercontent.com/u/63514245?u=e9b9606d47cab99acf75c08445a2cc69e7d56340&v=4
     contributions: 5
     company: ""
     organizations: ""
@@ -2379,14 +2379,6 @@ users_public_contributions:
     organizations: "sudotechweb"
 
   - rank: 42
-    name: "Gideon Zozingao"
-    login: "zuqongtech"
-    avatarUrl: https://avatars.githubusercontent.com/u/63514245?u=e9b9606d47cab99acf75c08445a2cc69e7d56340&v=4
-    contributions: 5
-    company: ""
-    organizations: ""
-
-  - rank: 43
     name: "Jeremy Kes Palme "
     login: "jeremykes"
     avatarUrl: https://avatars.githubusercontent.com/u/17040336?u=95f9754a59cfbe9f20cb2620fc7b1ae9e54b90aa&v=4
@@ -2394,15 +2386,15 @@ users_public_contributions:
     company: "Skoonters"
     organizations: ""
 
-  - rank: 44
-    name: "Amista Hawaiki"
-    login: "AMISTAHAWAIKI"
-    avatarUrl: https://avatars.githubusercontent.com/u/142615232?u=343e3c0bd55e9cb00f5ca25ae087b1807a5df382&v=4
-    contributions: 4
+  - rank: 43
+    name: "Wilke"
+    login: "wilkeleon"
+    avatarUrl: https://avatars.githubusercontent.com/u/141333290?u=0fb485fda1e4cb8a2f06f58a232c87652d30b20d&v=4
+    contributions: 5
     company: ""
     organizations: ""
 
-  - rank: 45
+  - rank: 44
     name: "Larry Nalawaku"
     login: "larry105"
     avatarUrl: https://avatars.githubusercontent.com/u/42917424?u=9419dfa153740c646521331b4e1ad9af37eefeeb&v=4
@@ -2410,23 +2402,15 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 46
-    name: "Solomon Hombiku"
-    login: "shombiku3738"
-    avatarUrl: https://avatars.githubusercontent.com/u/59555284?u=ae98d4b2ba92775247b4655fe841ba2dee0f2663&v=4
-    contributions: 4
-    company: "Western Pacific University"
-    organizations: ""
-
-  - rank: 47
-    name: "Jack Hulama"
-    login: "Haveva"
-    avatarUrl: https://avatars.githubusercontent.com/u/35690619?v=4
+  - rank: 45
+    name: "Amista Hawaiki"
+    login: "AMISTAHAWAIKI"
+    avatarUrl: https://avatars.githubusercontent.com/u/142615232?u=343e3c0bd55e9cb00f5ca25ae087b1807a5df382&v=4
     contributions: 4
     company: ""
     organizations: ""
 
-  - rank: 48
+  - rank: 46
     name: "Jomega NINGI"
     login: "Jomega743ct"
     avatarUrl: https://avatars.githubusercontent.com/u/140298218?u=862bc99489a79533d31b5daf28d900755b4ece17&v=4
@@ -2434,15 +2418,23 @@ users_public_contributions:
     company: "Divine Word University"
     organizations: ""
 
-  - rank: 49
-    name: "Billy Tony"
-    login: "billwhite16"
-    avatarUrl: https://avatars.githubusercontent.com/u/83795713?u=be0d2fb3865465e27fe275f7041f7cb245856894&v=4
+  - rank: 47
+    name: "Miller Twain"
+    login: "tillermwain"
+    avatarUrl: https://avatars.githubusercontent.com/u/54689898?u=dc04e0dc37e4bd172a50e018a2d701e091bb40b8&v=4
     contributions: 4
-    company: "CodeIngenius"
+    company: ""
     organizations: ""
 
-  - rank: 50
+  - rank: 48
+    name: "Solomon Hombiku"
+    login: "shombiku3738"
+    avatarUrl: https://avatars.githubusercontent.com/u/59555284?u=ae98d4b2ba92775247b4655fe841ba2dee0f2663&v=4
+    contributions: 4
+    company: "Western Pacific University"
+    organizations: ""
+
+  - rank: 49
     name: "Muhammad Gema Nuryana Agung"
     login: "161710125"
     avatarUrl: https://avatars.githubusercontent.com/u/29166171?u=9c8c838e80a1fa573970ba44d4bfa98c9ca63c40&v=4
@@ -2450,12 +2442,20 @@ users_public_contributions:
     company: "bram.ltd"
     organizations: ""
 
-  - rank: 51
-    name: "Miller Twain"
-    login: "tillermwain"
-    avatarUrl: https://avatars.githubusercontent.com/u/54689898?u=dc04e0dc37e4bd172a50e018a2d701e091bb40b8&v=4
+  - rank: 50
+    name: "Jack Hulama"
+    login: "Haveva"
+    avatarUrl: https://avatars.githubusercontent.com/u/35690619?v=4
     contributions: 4
     company: ""
+    organizations: ""
+
+  - rank: 51
+    name: "Billy Tony"
+    login: "billwhite16"
+    avatarUrl: https://avatars.githubusercontent.com/u/83795713?u=be0d2fb3865465e27fe275f7041f7cb245856894&v=4
+    contributions: 4
+    company: "CodeIngenius"
     organizations: ""
 
   - rank: 52
@@ -2731,17 +2731,17 @@ users_public_contributions:
     organizations: ""
 
   - rank: 86
-    name: "Fiona"
-    login: "beachgurl"
-    avatarUrl: https://avatars.githubusercontent.com/u/15624863?v=4
+    name: ""
+    login: "wilfred-wulbou"
+    avatarUrl: https://avatars.githubusercontent.com/u/25276623?u=8b59b8b0df995d1d7985d05f0931706975098cfd&v=4
     contributions: 1
     company: ""
     organizations: ""
 
   - rank: 87
-    name: ""
-    login: "wilfred-wulbou"
-    avatarUrl: https://avatars.githubusercontent.com/u/25276623?u=8b59b8b0df995d1d7985d05f0931706975098cfd&v=4
+    name: "Fiona"
+    login: "beachgurl"
+    avatarUrl: https://avatars.githubusercontent.com/u/15624863?v=4
     contributions: 1
     company: ""
     organizations: ""
@@ -4104,7 +4104,7 @@ private_users:
     name: "Glen G Hayoge"
     login: "glenhayoge"
     avatarUrl: https://avatars.githubusercontent.com/u/10877530?u=a22b7f08f94e1a4fea2fc1dbdc8862d778fc5da9&v=4
-    contributions: 1346
+    contributions: 1351
     company: "Dzagoo Digital Technologies-https://dzagoo.com"
     organizations: ""
 
@@ -4112,7 +4112,7 @@ private_users:
     name: "Crystal Kewe"
     login: "cravenhoff"
     avatarUrl: https://avatars.githubusercontent.com/u/49733508?u=afe6c11108966803fa143577a06d4ba2b67a4938&v=4
-    contributions: 1156
+    contributions: 1167
     company: "Crysan Technology Ltd"
     organizations: ""
 
@@ -4152,7 +4152,7 @@ private_users:
     name: "Rex Makusia"
     login: "grecpt"
     avatarUrl: https://avatars.githubusercontent.com/u/138628498?u=af2d005de5c366b588d352bdcf9c419bff03f34b&v=4
-    contributions: 174
+    contributions: 190
     company: "BSP Financial Group Limited"
     organizations: ""
 
@@ -4168,7 +4168,7 @@ private_users:
     name: "John Johnson"
     login: "John-Johns0n"
     avatarUrl: https://avatars.githubusercontent.com/u/84598043?v=4
-    contributions: 136
+    contributions: 137
     company: "Snakes & Foxes"
     organizations: ""
 
@@ -4216,7 +4216,7 @@ private_users:
     name: "Moses Kumie"
     login: "mkumie"
     avatarUrl: https://avatars.githubusercontent.com/u/27809097?u=1d606d6cd31cba57e65f3e833d301ebeea7cd152&v=4
-    contributions: 81
+    contributions: 82
     company: "Hobbyist"
     organizations: ""
 
@@ -4312,11 +4312,19 @@ private_users:
     name: "Pala Egora"
     login: "PalaPascoh"
     avatarUrl: https://avatars.githubusercontent.com/u/165354163?u=db2d6b8b6196510e4c5baed622742ba897b9ebe9&v=4
-    contributions: 45
+    contributions: 46
     company: ""
     organizations: ""
 
   - rank: 28
+    name: "S\u00e4\u00ebg"
+    login: "saeej"
+    avatarUrl: https://avatars.githubusercontent.com/u/21030349?v=4
+    contributions: 39
+    company: ""
+    organizations: ""
+
+  - rank: 29
     name: "Julius Tuckayo"
     login: "jtuckayo"
     avatarUrl: https://avatars.githubusercontent.com/u/31755955?u=2c7199fbaf841441e24bbc3ccc16e3b9b258471c&v=4
@@ -4324,19 +4332,11 @@ private_users:
     company: "Nasfund"
     organizations: ""
 
-  - rank: 29
+  - rank: 30
     name: "Miller Twain"
     login: "tillermwain"
     avatarUrl: https://avatars.githubusercontent.com/u/54689898?u=dc04e0dc37e4bd172a50e018a2d701e091bb40b8&v=4
     contributions: 34
-    company: ""
-    organizations: ""
-
-  - rank: 30
-    name: "S\u00e4\u00ebg"
-    login: "saeej"
-    avatarUrl: https://avatars.githubusercontent.com/u/21030349?v=4
-    contributions: 33
     company: ""
     organizations: ""
 
@@ -4413,9 +4413,9 @@ private_users:
     organizations: ""
 
   - rank: 40
-    name: ""
-    login: "jemanuel-perez"
-    avatarUrl: https://avatars.githubusercontent.com/u/16753515?v=4
+    name: "EmexNatera"
+    login: "Enatera95"
+    avatarUrl: https://avatars.githubusercontent.com/u/86398247?v=4
     contributions: 8
     company: ""
     organizations: ""
@@ -4429,9 +4429,9 @@ private_users:
     organizations: ""
 
   - rank: 42
-    name: "EmexNatera"
-    login: "Enatera95"
-    avatarUrl: https://avatars.githubusercontent.com/u/86398247?v=4
+    name: ""
+    login: "jemanuel-perez"
+    avatarUrl: https://avatars.githubusercontent.com/u/16753515?v=4
     contributions: 8
     company: ""
     organizations: ""
@@ -4501,11 +4501,11 @@ private_users:
     organizations: ""
 
   - rank: 51
-    name: "Billy Tony"
-    login: "billwhite16"
-    avatarUrl: https://avatars.githubusercontent.com/u/83795713?u=be0d2fb3865465e27fe275f7041f7cb245856894&v=4
+    name: "Bata Des"
+    login: "Boiiteii"
+    avatarUrl: https://avatars.githubusercontent.com/u/39753606?v=4
     contributions: 4
-    company: "CodeIngenius"
+    company: ""
     organizations: ""
 
   - rank: 52
@@ -4541,11 +4541,11 @@ private_users:
     organizations: ""
 
   - rank: 56
-    name: "Bata Des"
-    login: "Boiiteii"
-    avatarUrl: https://avatars.githubusercontent.com/u/39753606?v=4
+    name: "Billy Tony"
+    login: "billwhite16"
+    avatarUrl: https://avatars.githubusercontent.com/u/83795713?u=be0d2fb3865465e27fe275f7041f7cb245856894&v=4
     contributions: 4
-    company: ""
+    company: "CodeIngenius"
     organizations: ""
 
   - rank: 57
@@ -6225,7 +6225,7 @@ private_organizations:
   - rank: 6
     name: "esystems"
     membercount: 1
-generated: 2024-04-17T06:21:41Z
+generated: 2024-04-19T06:30:24Z
 min_followers_required: 0
 total_user_count: 356
 title: Papua New Guinea
