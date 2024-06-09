@@ -5,7 +5,7 @@ users:
     name: "BOROHOUL Soguelni Malachie"
     login: "malachieborohoul"
     avatarUrl: https://avatars.githubusercontent.com/u/80067657?u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4
-    contributions: 3695
+    contributions: 3720
     company: ""
     organizations: ""
 
@@ -13,7 +13,7 @@ users:
     name: "Moussa"
     login: "Kakaymi10"
     avatarUrl: https://avatars.githubusercontent.com/u/109428479?u=023f5344a531d589a5ad65e458864ee25757d687&v=4
-    contributions: 482
+    contributions: 495
     company: ""
     organizations: ""
 
@@ -21,7 +21,7 @@ users:
     name: "Ouang-namou Emmanuel Adoum"
     login: "adoumouangnamouemmanuel"
     avatarUrl: https://avatars.githubusercontent.com/u/125479958?u=034f6504af00cfef08cba7530da63b0b12ddfb5f&v=4
-    contributions: 377
+    contributions: 378
     company: "ALX"
     organizations: ""
 
@@ -394,14 +394,6 @@ users:
     organizations: ""
 
   - rank: 50
-    name: "Gloire IV Alaina"
-    login: "gloire4"
-    avatarUrl: https://avatars.githubusercontent.com/u/72476380?v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 51
     name: ""
     login: "RigbotUnderscore"
     avatarUrl: https://avatars.githubusercontent.com/u/77864116?v=4
@@ -409,12 +401,20 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 52
+  - rank: 51
     name: "MR_Blaster"
     login: "BlasterStudios"
     avatarUrl: https://avatars.githubusercontent.com/u/73756718?u=ed362a7941485f5ae9befc945889a0e07b8097b6&v=4
     contributions: 0
     company: "BlasterStudios"
+    organizations: ""
+
+  - rank: 52
+    name: "Gloire IV Alaina"
+    login: "gloire4"
+    avatarUrl: https://avatars.githubusercontent.com/u/72476380?v=4
+    contributions: 0
+    company: ""
     organizations: ""
 
   - rank: 53
@@ -1358,7 +1358,7 @@ users_public_contributions:
     name: "BOROHOUL Soguelni Malachie"
     login: "malachieborohoul"
     avatarUrl: https://avatars.githubusercontent.com/u/80067657?u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4
-    contributions: 3729
+    contributions: 3755
     company: ""
     organizations: ""
 
@@ -1366,7 +1366,7 @@ users_public_contributions:
     name: "Moussa"
     login: "Kakaymi10"
     avatarUrl: https://avatars.githubusercontent.com/u/109428479?u=023f5344a531d589a5ad65e458864ee25757d687&v=4
-    contributions: 539
+    contributions: 552
     company: ""
     organizations: ""
 
@@ -1374,7 +1374,7 @@ users_public_contributions:
     name: "Ouang-namou Emmanuel Adoum"
     login: "adoumouangnamouemmanuel"
     avatarUrl: https://avatars.githubusercontent.com/u/125479958?u=034f6504af00cfef08cba7530da63b0b12ddfb5f&v=4
-    contributions: 390
+    contributions: 391
     company: "ALX"
     organizations: ""
 
@@ -1747,20 +1747,20 @@ users_public_contributions:
     organizations: ""
 
   - rank: 50
-    name: ""
-    login: "MadTheViking"
-    avatarUrl: https://avatars.githubusercontent.com/u/23707873?u=08b49f9a49fc13dd1efc48ab93410a17e9126242&v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 51
     name: "MD SHAHIN"
     login: "shahin54982"
     avatarUrl: https://avatars.githubusercontent.com/u/75249765?u=bec85ca3af8208563388f0d41fc9729ce8311950&v=4
     contributions: 1
     company: "@Ithomecombd"
     organizations: "Ithomecombd"
+
+  - rank: 51
+    name: ""
+    login: "MadTheViking"
+    avatarUrl: https://avatars.githubusercontent.com/u/23707873?u=08b49f9a49fc13dd1efc48ab93410a17e9126242&v=4
+    contributions: 1
+    company: ""
+    organizations: ""
 
   - rank: 52
     name: ""
@@ -2712,7 +2712,7 @@ private_users:
     name: "BOROHOUL Soguelni Malachie"
     login: "malachieborohoul"
     avatarUrl: https://avatars.githubusercontent.com/u/80067657?u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4
-    contributions: 5188
+    contributions: 5213
     company: ""
     organizations: ""
 
@@ -2720,7 +2720,7 @@ private_users:
     name: ""
     login: "Yamingue"
     avatarUrl: https://avatars.githubusercontent.com/u/32344953?v=4
-    contributions: 552
+    contributions: 555
     company: ""
     organizations: ""
 
@@ -2728,7 +2728,7 @@ private_users:
     name: "Moussa"
     login: "Kakaymi10"
     avatarUrl: https://avatars.githubusercontent.com/u/109428479?u=023f5344a531d589a5ad65e458864ee25757d687&v=4
-    contributions: 539
+    contributions: 552
     company: ""
     organizations: ""
 
@@ -2736,7 +2736,7 @@ private_users:
     name: "Ouang-namou Emmanuel Adoum"
     login: "adoumouangnamouemmanuel"
     avatarUrl: https://avatars.githubusercontent.com/u/125479958?u=034f6504af00cfef08cba7530da63b0b12ddfb5f&v=4
-    contributions: 390
+    contributions: 391
     company: "ALX"
     organizations: ""
 
@@ -4083,13 +4083,13 @@ public_contributions_organizations:
 private_organizations:
 
   - rank: 1
-    name: "ithomecombd"
+    name: "moneyasnewspapers"
     membercount: 1
 
   - rank: 2
-    name: "moneyasnewspapers"
+    name: "ithomecombd"
     membercount: 1
-generated: 2024-06-07T03:45:45Z
+generated: 2024-06-09T03:55:18Z
 min_followers_required: 0
 total_user_count: 169
 title: Chad
