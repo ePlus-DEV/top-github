@@ -2856,7 +2856,7 @@ private_users:
     name: "Harouna Diallo"
     login: "hadpro24"
     avatarUrl: https://avatars.githubusercontent.com/u/36333565?u=e37c6e00f02de28fc1233a65a44df64415ec293c&v=4
-    contributions: 2895
+    contributions: 2896
     company: "Lead Tech, Way2Call"
     organizations: "vivadata,BuildForSDGCohort2,Nimba-Solution,babaata,codeurclub"
 
@@ -2872,7 +2872,7 @@ private_users:
     name: "Abdourahmane Jalloh"
     login: "aradradev"
     avatarUrl: https://avatars.githubusercontent.com/u/67812267?u=9e4a4065e8c0a52d75401cfde749b893ce9d2f27&v=4
-    contributions: 2016
+    contributions: 2020
     company: "Full-Stack Developer"
     organizations: ""
 
@@ -2920,7 +2920,7 @@ private_users:
     name: "Sita B\u00e9r\u00e9t\u00e9"
     login: "sitatec"
     avatarUrl: https://avatars.githubusercontent.com/u/62622509?u=69267437f52f5d91d6d86abbdb0a00f56934e34b&v=4
-    contributions: 203
+    contributions: 206
     company: ""
     organizations: ""
 
@@ -4279,19 +4279,19 @@ private_users:
 organizations:
 
   - rank: 1
-    name: "codeurclub"
-    membercount: 2
-
-  - rank: 2
     name: "gubfinances"
     membercount: 2
 
+  - rank: 2
+    name: "codeurclub"
+    membercount: 2
+
   - rank: 3
-    name: "vivadata"
+    name: "dntech17"
     membercount: 1
 
   - rank: 4
-    name: "indabax-guinea"
+    name: "babaata"
     membercount: 1
 
   - rank: 5
@@ -4303,11 +4303,11 @@ organizations:
     membercount: 1
 
   - rank: 7
-    name: "dntech17"
+    name: "buildforsdgcohort2"
     membercount: 1
 
   - rank: 8
-    name: "babaata"
+    name: "vivadata"
     membercount: 1
 
   - rank: 9
@@ -4315,49 +4315,49 @@ organizations:
     membercount: 1
 
   - rank: 10
-    name: "buildforsdgcohort2"
+    name: "bioinfouqam"
     membercount: 1
 
 public_contributions_organizations:
 
   - rank: 1
-    name: "codeurclub"
-    membercount: 2
-
-  - rank: 2
     name: "gubfinances"
     membercount: 2
 
+  - rank: 2
+    name: "codeurclub"
+    membercount: 2
+
   - rank: 3
-    name: "buildforsdgcohort2"
-    membercount: 1
-
-  - rank: 4
-    name: "bioinfouqam"
-    membercount: 1
-
-  - rank: 5
-    name: "indabax-guinea"
-    membercount: 1
-
-  - rank: 6
-    name: "neoledge"
-    membercount: 1
-
-  - rank: 7
-    name: "dntech17"
-    membercount: 1
-
-  - rank: 8
     name: "bahjanti"
     membercount: 1
 
+  - rank: 4
+    name: "neoledge"
+    membercount: 1
+
+  - rank: 5
+    name: "dntech17"
+    membercount: 1
+
+  - rank: 6
+    name: "wind-unix"
+    membercount: 1
+
+  - rank: 7
+    name: "bioinfouqam"
+    membercount: 1
+
+  - rank: 8
+    name: "babaata"
+    membercount: 1
+
   - rank: 9
-    name: "monmiel"
+    name: "vivadata"
     membercount: 1
 
   - rank: 10
-    name: "babaata"
+    name: "buildforsdgcohort2"
     membercount: 1
 
 private_organizations:
@@ -4371,37 +4371,37 @@ private_organizations:
     membercount: 2
 
   - rank: 3
-    name: "vivadata"
+    name: "nimba-solution"
     membercount: 1
 
   - rank: 4
-    name: "indabax-guinea"
-    membercount: 1
-
-  - rank: 5
     name: "dntech17"
     membercount: 1
 
-  - rank: 6
+  - rank: 5
     name: "neoledge"
     membercount: 1
 
-  - rank: 7
-    name: "bioinfouqam"
-    membercount: 1
-
-  - rank: 8
-    name: "babaata"
-    membercount: 1
-
-  - rank: 9
+  - rank: 6
     name: "bahjanti"
     membercount: 1
 
-  - rank: 10
+  - rank: 7
     name: "wind-unix"
     membercount: 1
-generated: 2024-06-14T02:43:21Z
+
+  - rank: 8
+    name: "buildforsdgcohort2"
+    membercount: 1
+
+  - rank: 9
+    name: "babaata"
+    membercount: 1
+
+  - rank: 10
+    name: "indabax-guinea"
+    membercount: 1
+generated: 2024-06-16T02:39:13Z
 min_followers_required: 0
 total_user_count: 178
 title: Guinea
