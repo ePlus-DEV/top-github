@@ -5,7 +5,7 @@ users:
     name: "Aristide Mebodo"
     login: "Marseven"
     avatarUrl: https://avatars.githubusercontent.com/u/18088746?u=53df1c07b98ca9a678b229b4a47f063541c2ab59&v=4
-    contributions: 811
+    contributions: 709
     company: "Mood"
     organizations: ""
 
@@ -13,7 +13,7 @@ users:
     name: "ONDO ABAGHE Rooly Marvin"
     login: "LeeMarvin94"
     avatarUrl: https://avatars.githubusercontent.com/u/101655162?v=4
-    contributions: 319
+    contributions: 306
     company: "Fablab Moanda"
     organizations: ""
 
@@ -21,7 +21,7 @@ users:
     name: "Benji_Mawax"
     login: "b1jimawax"
     avatarUrl: https://avatars.githubusercontent.com/u/91673919?u=e2421e8d8d3b746ebb39609f42e3e18f9c7cd490&v=4
-    contributions: 278
+    contributions: 274
     company: ""
     organizations: ""
 
@@ -50,19 +50,19 @@ users:
     organizations: ""
 
   - rank: 7
-    name: "Shikamaru_Le_Front-end"
-    login: "11999977"
-    avatarUrl: https://avatars.githubusercontent.com/u/138582296?u=2e6a8061732e7518667d2a386e42ba6e90e37412&v=4
-    contributions: 107
-    company: ""
-    organizations: ""
-
-  - rank: 8
     name: "waly le dev"
     login: "waly2020"
     avatarUrl: https://avatars.githubusercontent.com/u/73435658?u=b15129ab10cc727147555a0adfa335153366faaa&v=4
     contributions: 104
     company: "LMD"
+    organizations: ""
+
+  - rank: 8
+    name: "Shikamaru_Le_Front-end"
+    login: "11999977"
+    avatarUrl: https://avatars.githubusercontent.com/u/138582296?u=2e6a8061732e7518667d2a386e42ba6e90e37412&v=4
+    contributions: 102
+    company: ""
     organizations: ""
 
   - rank: 9
@@ -138,14 +138,6 @@ users:
     organizations: ""
 
   - rank: 18
-    name: "stephydlb"
-    login: "stephydlb"
-    avatarUrl: https://avatars.githubusercontent.com/u/111629805?u=6d3fd78ff44388d124be91452440c564e1d4fdb2&v=4
-    contributions: 61
-    company: "etudies"
-    organizations: ""
-
-  - rank: 19
     name: "Fernand Mesange"
     login: "Chroma241"
     avatarUrl: https://avatars.githubusercontent.com/u/82608094?u=3dbde3e04a2c84e69c8b294bfe2ca7ac995149bc&v=4
@@ -153,12 +145,20 @@ users:
     company: "Chroma"
     organizations: ""
 
-  - rank: 20
+  - rank: 19
     name: "MOMBO Eben"
     login: "EbenEzer-MOMBO"
     avatarUrl: https://avatars.githubusercontent.com/u/120035192?u=1d4b5015b7b6ecee3e966f1463339a047678ca7e&v=4
     contributions: 60
     company: ""
+    organizations: ""
+
+  - rank: 20
+    name: "stephydlb"
+    login: "stephydlb"
+    avatarUrl: https://avatars.githubusercontent.com/u/111629805?u=6d3fd78ff44388d124be91452440c564e1d4fdb2&v=4
+    contributions: 50
+    company: "etudies"
     organizations: ""
 
   - rank: 21
@@ -181,7 +181,7 @@ users:
     name: "Francis"
     login: "FSeneve"
     avatarUrl: https://avatars.githubusercontent.com/u/110477973?u=c7f9e8f82dc9165950114d664b221b0569660df1&v=4
-    contributions: 34
+    contributions: 33
     company: "Digisene"
     organizations: ""
 
@@ -189,7 +189,7 @@ users:
     name: ""
     login: "scoba6"
     avatarUrl: https://avatars.githubusercontent.com/u/30085964?v=4
-    contributions: 31
+    contributions: 30
     company: "OXILYUM"
     organizations: ""
 
@@ -218,22 +218,6 @@ users:
     organizations: ""
 
   - rank: 28
-    name: "Abdoulaye Dong"
-    login: "abdoulayedong"
-    avatarUrl: https://avatars.githubusercontent.com/u/37236067?u=fde4e2925d0720e9a2dc4d24efeefcaecb7b24d4&v=4
-    contributions: 20
-    company: ""
-    organizations: ""
-
-  - rank: 29
-    name: "Ephra\u00efm SEDDOR"
-    login: "mawuva"
-    avatarUrl: https://avatars.githubusercontent.com/u/22901277?u=f38375c9386043ce745c1094923c708ac74b95cf&v=4
-    contributions: 20
-    company: ""
-    organizations: ""
-
-  - rank: 30
     name: "Coulon BANGOLA"
     login: "Coulon-H"
     avatarUrl: https://avatars.githubusercontent.com/u/66695585?v=4
@@ -241,15 +225,23 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 31
-    name: "NGOUA BEKALE Symphorien"
-    login: "Symphori"
-    avatarUrl: https://avatars.githubusercontent.com/u/139792048?u=f2760b0661e6db97aa5ce1fb273dd3eef6b3a2df&v=4
-    contributions: 19
-    company: "SymBek Digital Solutions"
+  - rank: 29
+    name: "Abdoulaye Dong"
+    login: "abdoulayedong"
+    avatarUrl: https://avatars.githubusercontent.com/u/37236067?u=fde4e2925d0720e9a2dc4d24efeefcaecb7b24d4&v=4
+    contributions: 20
+    company: ""
     organizations: ""
 
-  - rank: 32
+  - rank: 30
+    name: "Ephra\u00efm SEDDOR"
+    login: "mawuva"
+    avatarUrl: https://avatars.githubusercontent.com/u/22901277?u=f38375c9386043ce745c1094923c708ac74b95cf&v=4
+    contributions: 20
+    company: ""
+    organizations: ""
+
+  - rank: 31
     name: ""
     login: "Mbaiwodji"
     avatarUrl: https://avatars.githubusercontent.com/u/41707474?u=3e2795f521d366a8c1793c88488ee3ece8f6912d&v=4
@@ -257,12 +249,20 @@ users:
     company: "IT CORP"
     organizations: ""
 
-  - rank: 33
+  - rank: 32
     name: "NGOMTANOUBA Barthelemy"
     login: "ngomtanouba"
     avatarUrl: https://avatars.githubusercontent.com/u/20743128?u=e47b41617d71696b49335fad91139b9c40e9739e&v=4
     contributions: 19
     company: "NTIC Service"
+    organizations: ""
+
+  - rank: 33
+    name: "NGOUA BEKALE Symphorien"
+    login: "Symphori"
+    avatarUrl: https://avatars.githubusercontent.com/u/139792048?u=f2760b0661e6db97aa5ce1fb273dd3eef6b3a2df&v=4
+    contributions: 19
+    company: "SymBek Digital Solutions"
     organizations: ""
 
   - rank: 34
@@ -274,14 +274,6 @@ users:
     organizations: ""
 
   - rank: 35
-    name: "MBA PERCY"
-    login: "edoumps"
-    avatarUrl: https://avatars.githubusercontent.com/u/45167806?u=97c6b3e2af1db86e36f8a66f9cf95e3448acf626&v=4
-    contributions: 17
-    company: ""
-    organizations: ""
-
-  - rank: 36
     name: "alfran-wei"
     login: "alfran-wei"
     avatarUrl: https://avatars.githubusercontent.com/u/57835030?u=b77e7efb57c6e8c0510d2cca4d4874231515c7f5&v=4
@@ -289,10 +281,18 @@ users:
     company: "coming soon..."
     organizations: ""
 
-  - rank: 37
+  - rank: 36
     name: "Gabin Moundziegou"
     login: "Steeven1995"
     avatarUrl: https://avatars.githubusercontent.com/u/40131929?u=af2091ee554ed2a4d0b81923b211693b2482d53f&v=4
+    contributions: 17
+    company: ""
+    organizations: ""
+
+  - rank: 37
+    name: "MBA PERCY"
+    login: "edoumps"
+    avatarUrl: https://avatars.githubusercontent.com/u/45167806?u=97c6b3e2af1db86e36f8a66f9cf95e3448acf626&v=4
     contributions: 17
     company: ""
     organizations: ""
@@ -306,22 +306,6 @@ users:
     organizations: ""
 
   - rank: 39
-    name: ""
-    login: "ITech-Gabon"
-    avatarUrl: https://avatars.githubusercontent.com/u/142278959?u=9444f21ce2858113ebf650bdbc47462e304790c7&v=4
-    contributions: 10
-    company: ""
-    organizations: ""
-
-  - rank: 40
-    name: "Jordane YENO"
-    login: "JordaneYeno"
-    avatarUrl: https://avatars.githubusercontent.com/u/104835883?u=49a514c58b37e08164ed08465f116875ca8e524f&v=4
-    contributions: 10
-    company: ""
-    organizations: ""
-
-  - rank: 41
     name: "EKOME ONGONE GP"
     login: "adminParfait"
     avatarUrl: https://avatars.githubusercontent.com/u/46919737?u=34c2e403e091ae4077339cf46b438b942907eac2&v=4
@@ -329,20 +313,36 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 42
-    name: "Lichteensteiner Stawikowski"
-    login: "Lichtensteiner"
-    avatarUrl: https://avatars.githubusercontent.com/u/132758588?v=4
-    contributions: 9
-    company: "Dev_Web"
+  - rank: 40
+    name: ""
+    login: "ITech-Gabon"
+    avatarUrl: https://avatars.githubusercontent.com/u/142278959?u=9444f21ce2858113ebf650bdbc47462e304790c7&v=4
+    contributions: 10
+    company: ""
     organizations: ""
 
-  - rank: 43
+  - rank: 41
+    name: "Jordane YENO"
+    login: "JordaneYeno"
+    avatarUrl: https://avatars.githubusercontent.com/u/104835883?u=49a514c58b37e08164ed08465f116875ca8e524f&v=4
+    contributions: 10
+    company: ""
+    organizations: ""
+
+  - rank: 42
     name: "BANGA"
     login: "bangaromaric"
     avatarUrl: https://avatars.githubusercontent.com/u/16958951?u=bdd0fec314fe36946183089f3a6b5e7e64c0ab0d&v=4
     contributions: 9
     company: ""
+    organizations: ""
+
+  - rank: 43
+    name: "Lichteensteiner Stawikowski"
+    login: "Lichtensteiner"
+    avatarUrl: https://avatars.githubusercontent.com/u/132758588?v=4
+    contributions: 9
+    company: "Dev_Web"
     organizations: ""
 
   - rank: 44
@@ -378,6 +378,14 @@ users:
     organizations: ""
 
   - rank: 48
+    name: "Welldone"
+    login: "WelldoneMBOYI"
+    avatarUrl: https://avatars.githubusercontent.com/u/105130834?u=68fc06964b89372a10f09a8b83117c50bcbda962&v=4
+    contributions: 7
+    company: "libreville"
+    organizations: ""
+
+  - rank: 49
     name: "Arouna Alaho"
     login: "dataaro"
     avatarUrl: https://avatars.githubusercontent.com/u/131815065?v=4
@@ -385,20 +393,12 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 49
+  - rank: 50
     name: "Faneolia Bissangoye"
     login: "faneolya"
     avatarUrl: https://avatars.githubusercontent.com/u/104846096?u=5cc213105681ac4da7c539a34e2a450c1226b881&v=4
     contributions: 7
     company: ""
-    organizations: ""
-
-  - rank: 50
-    name: "Welldone"
-    login: "WelldoneMBOYI"
-    avatarUrl: https://avatars.githubusercontent.com/u/105130834?u=68fc06964b89372a10f09a8b83117c50bcbda962&v=4
-    contributions: 7
-    company: "libreville"
     organizations: ""
 
   - rank: 51
@@ -434,6 +434,14 @@ users:
     organizations: ""
 
   - rank: 55
+    name: "Mapson Deis"
+    login: "MAPANGOU241"
+    avatarUrl: https://avatars.githubusercontent.com/u/66531923?u=fa3d6f45fcdbe2e4b7b815c8f49116378601d54a&v=4
+    contributions: 3
+    company: "CBS"
+    organizations: ""
+
+  - rank: 56
     name: "Christian Mpeck"
     login: "Christian-Mpeck"
     avatarUrl: https://avatars.githubusercontent.com/u/153276549?u=3bb0df9aa68d2ffd742da0be264889800215e373&v=4
@@ -441,20 +449,12 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 56
+  - rank: 57
     name: "Enep241"
     login: "Enep241"
     avatarUrl: https://avatars.githubusercontent.com/u/25431158?v=4
     contributions: 3
     company: "Ecole241"
-    organizations: ""
-
-  - rank: 57
-    name: "Mapson Deis"
-    login: "MAPANGOU241"
-    avatarUrl: https://avatars.githubusercontent.com/u/66531923?u=fa3d6f45fcdbe2e4b7b815c8f49116378601d54a&v=4
-    contributions: 3
-    company: "CBS"
     organizations: ""
 
   - rank: 58
@@ -634,19 +634,19 @@ users:
     organizations: ""
 
   - rank: 80
-    name: "Esp\u00e9rance Engineer"
-    login: "esperanceengineer"
-    avatarUrl: https://avatars.githubusercontent.com/u/40761920?u=501652e413b317f42c902e24e191cb14b03f6ea3&v=4
-    contributions: 0
-    company: "Intial Development"
-    organizations: ""
-
-  - rank: 81
     name: "TAKOUMBO MBE Yvan"
     login: "ysnipeur"
     avatarUrl: https://avatars.githubusercontent.com/u/26521726?u=ca17c5958f69f394de29dc600d061bfb7d8a95ac&v=4
     contributions: 0
     company: ""
+    organizations: ""
+
+  - rank: 81
+    name: "Esp\u00e9rance Engineer"
+    login: "esperanceengineer"
+    avatarUrl: https://avatars.githubusercontent.com/u/40761920?u=501652e413b317f42c902e24e191cb14b03f6ea3&v=4
+    contributions: 0
+    company: "Intial Development"
     organizations: ""
 
   - rank: 82
@@ -986,6 +986,14 @@ users:
     organizations: ""
 
   - rank: 124
+    name: "Mida Idiata"
+    login: "midaidiata"
+    avatarUrl: https://avatars.githubusercontent.com/u/171168437?u=39de36e760c58c05f2e73ae0c6ad36b1556f5184&v=4
+    contributions: 0
+    company: ""
+    organizations: ""
+
+  - rank: 125
     name: "OYONO NSO King Ferdinand"
     login: "robiking22"
     avatarUrl: https://avatars.githubusercontent.com/u/78202121?u=80501aaa71b5c4671ba58cfd78d3416f90c53fa9&v=4
@@ -993,20 +1001,12 @@ users:
     company: "Ciatel Inc"
     organizations: ""
 
-  - rank: 125
+  - rank: 126
     name: ""
     login: "lascodev"
     avatarUrl: https://avatars.githubusercontent.com/u/108063016?u=0a1124670eb0e7937711c4fa4a9d842e429a61ed&v=4
     contributions: 0
     company: "lascodev"
-    organizations: ""
-
-  - rank: 126
-    name: "Mida Idiata"
-    login: "midaidiata"
-    avatarUrl: https://avatars.githubusercontent.com/u/171168437?u=39de36e760c58c05f2e73ae0c6ad36b1556f5184&v=4
-    contributions: 0
-    company: ""
     organizations: ""
 
   - rank: 127
@@ -1362,14 +1362,6 @@ users:
     organizations: ""
 
   - rank: 171
-    name: "Rafiki"
-    login: "Mistgan"
-    avatarUrl: https://avatars.githubusercontent.com/u/41150476?u=6aadb67e25cbaae58b1578af2df000488f639671&v=4
-    contributions: 0
-    company: "Mandrill  Corporation"
-    organizations: ""
-
-  - rank: 172
     name: "Big Ted"
     login: "tedlebig"
     avatarUrl: https://avatars.githubusercontent.com/u/155996016?v=4
@@ -1377,7 +1369,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 173
+  - rank: 172
     name: "Varney MONDJO"
     login: "Varfront"
     avatarUrl: https://avatars.githubusercontent.com/u/66923065?u=644aa82f5410072b4fb1991df9d01bfb26b0cada&v=4
@@ -1385,7 +1377,7 @@ users:
     company: "@CodarisGA "
     organizations: ""
 
-  - rank: 174
+  - rank: 173
     name: "Badol Team"
     login: "zebadol"
     avatarUrl: https://avatars.githubusercontent.com/u/80464944?u=a19f1db163a2c0aed33fdfa534d281340dde50e2&v=4
@@ -1393,7 +1385,7 @@ users:
     company: "Badol"
     organizations: ""
 
-  - rank: 175
+  - rank: 174
     name: "SERV_IT"
     login: "AbelGG-It"
     avatarUrl: https://avatars.githubusercontent.com/u/90451293?u=3739eac23b39c3bd10fe814e87551460c9391630&v=4
@@ -1401,12 +1393,20 @@ users:
     company: "Group-GED"
     organizations: ""
 
-  - rank: 176
+  - rank: 175
     name: "King elprofa"
     login: "elprofa"
     avatarUrl: https://avatars.githubusercontent.com/u/76491497?u=03a3f70faa3fa735e75b21802e54340f5d92d2b1&v=4
     contributions: 0
     company: "eddocs"
+    organizations: ""
+
+  - rank: 176
+    name: "Rafiki"
+    login: "Mistgan"
+    avatarUrl: https://avatars.githubusercontent.com/u/41150476?u=6aadb67e25cbaae58b1578af2df000488f639671&v=4
+    contributions: 0
+    company: "Mandrill  Corporation"
     organizations: ""
 
   - rank: 177
@@ -1786,14 +1786,6 @@ users:
     organizations: ""
 
   - rank: 224
-    name: "Maximus"
-    login: "maximus196"
-    avatarUrl: https://avatars.githubusercontent.com/u/57839461?u=d2c98e014efe286aaf4c2d6a5e8dd671710d8122&v=4
-    contributions: 0
-    company: "BS Gabon"
-    organizations: ""
-
-  - rank: 225
     name: "Igondjo Carter"
     login: "lenamyco"
     avatarUrl: https://avatars.githubusercontent.com/u/10454389?v=4
@@ -1801,7 +1793,7 @@ users:
     company: "Lenamy.com"
     organizations: ""
 
-  - rank: 226
+  - rank: 225
     name: "Alexandre Kaze"
     login: "zekaze"
     avatarUrl: https://avatars.githubusercontent.com/u/12454365?u=dcf05b23ad7a50518d59b8588391cf1ca11ee02b&v=4
@@ -1809,7 +1801,7 @@ users:
     company: "Alexandre Kaze"
     organizations: ""
 
-  - rank: 227
+  - rank: 226
     name: "BAMBO Le Bonheur"
     login: "Lebonheur2370"
     avatarUrl: https://avatars.githubusercontent.com/u/127909254?u=920d0cbcf11300abb882ada73fe9ea569a52073f&v=4
@@ -1817,7 +1809,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 228
+  - rank: 227
     name: "Brell"
     login: "Brelldesi"
     avatarUrl: https://avatars.githubusercontent.com/u/104839400?v=4
@@ -1825,12 +1817,20 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 229
+  - rank: 228
     name: ""
     login: "Kbz-IT"
     avatarUrl: https://avatars.githubusercontent.com/u/69463642?v=4
     contributions: 0
     company: "Micronium"
+    organizations: ""
+
+  - rank: 229
+    name: "Maximus"
+    login: "maximus196"
+    avatarUrl: https://avatars.githubusercontent.com/u/57839461?u=d2c98e014efe286aaf4c2d6a5e8dd671710d8122&v=4
+    contributions: 0
+    company: "BS Gabon"
     organizations: ""
 
   - rank: 230
@@ -1978,14 +1978,6 @@ users:
     organizations: ""
 
   - rank: 248
-    name: "Paterne DIBACKA"
-    login: "tbadepat"
-    avatarUrl: https://avatars.githubusercontent.com/u/11478306?u=dd304116ac17a14527b3857d98372a35b1671d7e&v=4
-    contributions: 0
-    company: "SEM"
-    organizations: ""
-
-  - rank: 249
     name: "Ousseyni TIAMA"
     login: "thity14"
     avatarUrl: https://avatars.githubusercontent.com/u/79253533?u=7ce34c9261649b1f3ef25de56e2d54c360b57d69&v=4
@@ -1993,7 +1985,7 @@ users:
     company: "Institut Africain d'Informatique"
     organizations: ""
 
-  - rank: 250
+  - rank: 249
     name: "Menany Walty"
     login: "waltysama"
     avatarUrl: https://avatars.githubusercontent.com/u/29609768?v=4
@@ -2001,7 +1993,7 @@ users:
     company: "orixas"
     organizations: ""
 
-  - rank: 251
+  - rank: 250
     name: "Yabre Oumar"
     login: "yabross"
     avatarUrl: https://avatars.githubusercontent.com/u/28543054?v=4
@@ -2009,7 +2001,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 252
+  - rank: 251
     name: "OBH"
     login: "HerveOssavou"
     avatarUrl: https://avatars.githubusercontent.com/u/22029070?v=4
@@ -2017,7 +2009,7 @@ users:
     company: ""
     organizations: ""
 
-  - rank: 253
+  - rank: 252
     name: "Justinho MIKALA"
     login: "justinhomikala"
     avatarUrl: https://avatars.githubusercontent.com/u/54251151?u=1149b59c7fb049cb87c666f5ab6b22614fc49edf&v=4
@@ -2025,7 +2017,7 @@ users:
     company: "Asdecod"
     organizations: ""
 
-  - rank: 254
+  - rank: 253
     name: "Kami-sama"
     login: "Mr-Nobody117"
     avatarUrl: https://avatars.githubusercontent.com/u/37465079?u=1b23f5ff458f93eda6c1afdd688d3a19f5a2bb7d&v=4
@@ -2033,12 +2025,20 @@ users:
     company: "Zaun StartUp"
     organizations: ""
 
-  - rank: 255
+  - rank: 254
     name: "Henry Mdjiyengar"
     login: "Boyca235"
     avatarUrl: https://avatars.githubusercontent.com/u/51931742?v=4
     contributions: 0
     company: ""
+    organizations: ""
+
+  - rank: 255
+    name: "Paterne DIBACKA"
+    login: "tbadepat"
+    avatarUrl: https://avatars.githubusercontent.com/u/11478306?u=dd304116ac17a14527b3857d98372a35b1671d7e&v=4
+    contributions: 0
+    company: "SEM"
     organizations: ""
 
   - rank: 256
@@ -2054,7 +2054,7 @@ users_public_contributions:
     name: "Aristide Mebodo"
     login: "Marseven"
     avatarUrl: https://avatars.githubusercontent.com/u/18088746?u=53df1c07b98ca9a678b229b4a47f063541c2ab59&v=4
-    contributions: 817
+    contributions: 715
     company: "Mood"
     organizations: ""
 
@@ -2062,7 +2062,7 @@ users_public_contributions:
     name: "Benji_Mawax"
     login: "b1jimawax"
     avatarUrl: https://avatars.githubusercontent.com/u/91673919?u=e2421e8d8d3b746ebb39609f42e3e18f9c7cd490&v=4
-    contributions: 421
+    contributions: 414
     company: ""
     organizations: ""
 
@@ -2070,7 +2070,7 @@ users_public_contributions:
     name: "ONDO ABAGHE Rooly Marvin"
     login: "LeeMarvin94"
     avatarUrl: https://avatars.githubusercontent.com/u/101655162?v=4
-    contributions: 332
+    contributions: 319
     company: "Fablab Moanda"
     organizations: ""
 
@@ -2078,7 +2078,7 @@ users_public_contributions:
     name: "Shikamaru_Le_Front-end"
     login: "11999977"
     avatarUrl: https://avatars.githubusercontent.com/u/138582296?u=2e6a8061732e7518667d2a386e42ba6e90e37412&v=4
-    contributions: 171
+    contributions: 165
     company: ""
     organizations: ""
 
@@ -2203,14 +2203,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 20
-    name: "stephydlb"
-    login: "stephydlb"
-    avatarUrl: https://avatars.githubusercontent.com/u/111629805?u=6d3fd78ff44388d124be91452440c564e1d4fdb2&v=4
-    contributions: 72
-    company: "etudies"
-    organizations: ""
-
-  - rank: 21
     name: "Yohann Obiang"
     login: "YohannObiang"
     avatarUrl: https://avatars.githubusercontent.com/u/104835751?u=ee226cbc963e28095fa24dd11b9061027d12e6bb&v=4
@@ -2218,7 +2210,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 22
+  - rank: 21
     name: "Yannick ABOH"
     login: "yannickaboh"
     avatarUrl: https://avatars.githubusercontent.com/u/23084185?u=61ffbc8a5feb758a211f6f92c5818773e7395f5c&v=4
@@ -2226,7 +2218,7 @@ users_public_contributions:
     company: "AYATECH "
     organizations: ""
 
-  - rank: 23
+  - rank: 22
     name: "MOMBO Eben"
     login: "EbenEzer-MOMBO"
     avatarUrl: https://avatars.githubusercontent.com/u/120035192?u=1d4b5015b7b6ecee3e966f1463339a047678ca7e&v=4
@@ -2234,11 +2226,19 @@ users_public_contributions:
     company: ""
     organizations: ""
 
+  - rank: 23
+    name: "stephydlb"
+    login: "stephydlb"
+    avatarUrl: https://avatars.githubusercontent.com/u/111629805?u=6d3fd78ff44388d124be91452440c564e1d4fdb2&v=4
+    contributions: 61
+    company: "etudies"
+    organizations: ""
+
   - rank: 24
     name: "Francis"
     login: "FSeneve"
     avatarUrl: https://avatars.githubusercontent.com/u/110477973?u=c7f9e8f82dc9165950114d664b221b0569660df1&v=4
-    contributions: 44
+    contributions: 43
     company: "Digisene"
     organizations: ""
 
@@ -2254,7 +2254,7 @@ users_public_contributions:
     name: ""
     login: "scoba6"
     avatarUrl: https://avatars.githubusercontent.com/u/30085964?v=4
-    contributions: 41
+    contributions: 40
     company: "OXILYUM"
     organizations: ""
 
@@ -2270,7 +2270,7 @@ users_public_contributions:
     name: "Ephra\u00efm SEDDOR"
     login: "mawuva"
     avatarUrl: https://avatars.githubusercontent.com/u/22901277?u=f38375c9386043ce745c1094923c708ac74b95cf&v=4
-    contributions: 29
+    contributions: 27
     company: ""
     organizations: ""
 
@@ -2299,14 +2299,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 32
-    name: "Abdoulaye Dong"
-    login: "abdoulayedong"
-    avatarUrl: https://avatars.githubusercontent.com/u/37236067?u=fde4e2925d0720e9a2dc4d24efeefcaecb7b24d4&v=4
-    contributions: 24
-    company: ""
-    organizations: ""
-
-  - rank: 33
     name: "Coulon BANGOLA"
     login: "Coulon-H"
     avatarUrl: https://avatars.githubusercontent.com/u/66695585?v=4
@@ -2314,20 +2306,28 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 34
-    name: "El Georges William"
-    login: "El-GeorgesW"
-    avatarUrl: https://avatars.githubusercontent.com/u/35881726?u=e6c86cf9af814e098bb5abd1e85fac3a127814d9&v=4
-    contributions: 23
-    company: "@Fractal-Engines"
+  - rank: 33
+    name: "Abdoulaye Dong"
+    login: "abdoulayedong"
+    avatarUrl: https://avatars.githubusercontent.com/u/37236067?u=fde4e2925d0720e9a2dc4d24efeefcaecb7b24d4&v=4
+    contributions: 24
+    company: ""
     organizations: ""
 
-  - rank: 35
+  - rank: 34
     name: "Gabin Moundziegou"
     login: "Steeven1995"
     avatarUrl: https://avatars.githubusercontent.com/u/40131929?u=af2091ee554ed2a4d0b81923b211693b2482d53f&v=4
     contributions: 23
     company: ""
+    organizations: ""
+
+  - rank: 35
+    name: "El Georges William"
+    login: "El-GeorgesW"
+    avatarUrl: https://avatars.githubusercontent.com/u/35881726?u=e6c86cf9af814e098bb5abd1e85fac3a127814d9&v=4
+    contributions: 23
+    company: "@Fractal-Engines"
     organizations: ""
 
   - rank: 36
@@ -2395,17 +2395,17 @@ users_public_contributions:
     organizations: ""
 
   - rank: 44
-    name: "MissMOcode"
-    login: "MOcodeMOtion"
-    avatarUrl: https://avatars.githubusercontent.com/u/139871598?u=9e051f9bc2e338bce1dd89b150c9b0fbb255be02&v=4
+    name: "Jordane YENO"
+    login: "JordaneYeno"
+    avatarUrl: https://avatars.githubusercontent.com/u/104835883?u=49a514c58b37e08164ed08465f116875ca8e524f&v=4
     contributions: 13
     company: ""
     organizations: ""
 
   - rank: 45
-    name: "Jordane YENO"
-    login: "JordaneYeno"
-    avatarUrl: https://avatars.githubusercontent.com/u/104835883?u=49a514c58b37e08164ed08465f116875ca8e524f&v=4
+    name: "MissMOcode"
+    login: "MOcodeMOtion"
+    avatarUrl: https://avatars.githubusercontent.com/u/139871598?u=9e051f9bc2e338bce1dd89b150c9b0fbb255be02&v=4
     contributions: 13
     company: ""
     organizations: ""
@@ -2419,14 +2419,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 47
-    name: ""
-    login: "ITech-Gabon"
-    avatarUrl: https://avatars.githubusercontent.com/u/142278959?u=9444f21ce2858113ebf650bdbc47462e304790c7&v=4
-    contributions: 12
-    company: ""
-    organizations: ""
-
-  - rank: 48
     name: "Arouna Alaho"
     login: "dataaro"
     avatarUrl: https://avatars.githubusercontent.com/u/131815065?v=4
@@ -2434,15 +2426,15 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 49
-    name: "Hamilton Darryl"
-    login: "hamiltondarryl"
-    avatarUrl: https://avatars.githubusercontent.com/u/44721587?u=fc043dc987343f0a8bc2b20bb20886f47f88a137&v=4
-    contributions: 11
+  - rank: 48
+    name: ""
+    login: "ITech-Gabon"
+    avatarUrl: https://avatars.githubusercontent.com/u/142278959?u=9444f21ce2858113ebf650bdbc47462e304790c7&v=4
+    contributions: 12
     company: ""
     organizations: ""
 
-  - rank: 50
+  - rank: 49
     name: "Leyoussi Bonachi Lauriel"
     login: "bonachylauriel"
     avatarUrl: https://avatars.githubusercontent.com/u/48802867?u=172ebb0aa2562ef05b7601df3b8387f2fcaccef6&v=4
@@ -2450,13 +2442,21 @@ users_public_contributions:
     company: "@loona-inc "
     organizations: "loona-inc"
 
-  - rank: 51
+  - rank: 50
     name: "Serdi"
     login: "serdiDev"
     avatarUrl: https://avatars.githubusercontent.com/u/45342658?u=416583703980780e18dbba78a15c7646f5d0a992&v=4
     contributions: 11
     company: "GMAC"
     organizations: "digital-iai"
+
+  - rank: 51
+    name: "Hamilton Darryl"
+    login: "hamiltondarryl"
+    avatarUrl: https://avatars.githubusercontent.com/u/44721587?u=fc043dc987343f0a8bc2b20bb20886f47f88a137&v=4
+    contributions: 11
+    company: ""
+    organizations: ""
 
   - rank: 52
     name: "Faneolia Bissangoye"
@@ -2475,22 +2475,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 54
-    name: "Mapson Deis"
-    login: "MAPANGOU241"
-    avatarUrl: https://avatars.githubusercontent.com/u/66531923?u=fa3d6f45fcdbe2e4b7b815c8f49116378601d54a&v=4
-    contributions: 8
-    company: "CBS"
-    organizations: ""
-
-  - rank: 55
-    name: "NZOLO MINKO Michel"
-    login: "NZOLO"
-    avatarUrl: https://avatars.githubusercontent.com/u/39587265?u=2b57767c6eed215116e56ef3e4afc40a8f9c3a12&v=4
-    contributions: 8
-    company: "MYTECH GAB'ON"
-    organizations: ""
-
-  - rank: 56
     name: "Hilarion KUASSIA"
     login: "BriceHache"
     avatarUrl: https://avatars.githubusercontent.com/u/35991565?u=6496e004b355f1af40cb4ff6a310656fe415f812&v=4
@@ -2498,15 +2482,23 @@ users_public_contributions:
     company: "EASYTECH AFRICA"
     organizations: ""
 
-  - rank: 57
-    name: "Christian Mpeck"
-    login: "Christian-Mpeck"
-    avatarUrl: https://avatars.githubusercontent.com/u/153276549?u=3bb0df9aa68d2ffd742da0be264889800215e373&v=4
-    contributions: 6
-    company: ""
+  - rank: 55
+    name: "Mapson Deis"
+    login: "MAPANGOU241"
+    avatarUrl: https://avatars.githubusercontent.com/u/66531923?u=fa3d6f45fcdbe2e4b7b815c8f49116378601d54a&v=4
+    contributions: 8
+    company: "CBS"
     organizations: ""
 
-  - rank: 58
+  - rank: 56
+    name: "NZOLO MINKO Michel"
+    login: "NZOLO"
+    avatarUrl: https://avatars.githubusercontent.com/u/39587265?u=2b57767c6eed215116e56ef3e4afc40a8f9c3a12&v=4
+    contributions: 7
+    company: "MYTECH GAB'ON"
+    organizations: ""
+
+  - rank: 57
     name: "Joseph Donovan BIBANG BEFENE"
     login: "bibangjoseph"
     avatarUrl: https://avatars.githubusercontent.com/u/20001804?u=3dea43010ab00d3cefa5ccfaa84911c46089c5ea&v=4
@@ -2514,7 +2506,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 59
+  - rank: 58
     name: "341WhiteCorsairhand"
     login: "341WhiteCorsairhand"
     avatarUrl: https://avatars.githubusercontent.com/u/154698569?u=02e9839d1dbbd82085be67a4fe9df3b4ae047ace&v=4
@@ -2522,10 +2514,18 @@ users_public_contributions:
     company: "AIG"
     organizations: ""
 
+  - rank: 59
+    name: "Christian Mpeck"
+    login: "Christian-Mpeck"
+    avatarUrl: https://avatars.githubusercontent.com/u/153276549?u=3bb0df9aa68d2ffd742da0be264889800215e373&v=4
+    contributions: 6
+    company: ""
+    organizations: ""
+
   - rank: 60
-    name: "Dylan ONDO"
-    login: "Dylan245-droid"
-    avatarUrl: https://avatars.githubusercontent.com/u/67437542?u=ad28d8a2efae61afc9b84f5b09126634f3b21dea&v=4
+    name: "Ebamco Djatto"
+    login: "EbamcoDjatto"
+    avatarUrl: https://avatars.githubusercontent.com/u/20635097?u=b6f3d8af9d8c8dcb211691933047ee9ebb7a7348&v=4
     contributions: 5
     company: ""
     organizations: ""
@@ -2547,9 +2547,9 @@ users_public_contributions:
     organizations: ""
 
   - rank: 63
-    name: "Ebamco Djatto"
-    login: "EbamcoDjatto"
-    avatarUrl: https://avatars.githubusercontent.com/u/20635097?u=b6f3d8af9d8c8dcb211691933047ee9ebb7a7348&v=4
+    name: "Dylan ONDO"
+    login: "Dylan245-droid"
+    avatarUrl: https://avatars.githubusercontent.com/u/67437542?u=ad28d8a2efae61afc9b84f5b09126634f3b21dea&v=4
     contributions: 5
     company: ""
     organizations: ""
@@ -2563,14 +2563,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 65
-    name: "Alkah Genius"
-    login: "Alkah01"
-    avatarUrl: https://avatars.githubusercontent.com/u/53573188?v=4
-    contributions: 4
-    company: "Freelancer"
-    organizations: ""
-
-  - rank: 66
     name: "ANVANE Marcel"
     login: "MarcelWeb007"
     avatarUrl: https://avatars.githubusercontent.com/u/53498389?u=96652654352484458d4d6abcc1906cc4a735b915&v=4
@@ -2578,31 +2570,15 @@ users_public_contributions:
     company: "Informaticiens du web"
     organizations: ""
 
+  - rank: 66
+    name: "Alkah Genius"
+    login: "Alkah01"
+    avatarUrl: https://avatars.githubusercontent.com/u/53573188?v=4
+    contributions: 4
+    company: "Freelancer"
+    organizations: ""
+
   - rank: 67
-    name: "Mida Idiata"
-    login: "midaidiata"
-    avatarUrl: https://avatars.githubusercontent.com/u/171168437?u=39de36e760c58c05f2e73ae0c6ad36b1556f5184&v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 68
-    name: "Judas Iscariot"
-    login: "imkowan"
-    avatarUrl: https://avatars.githubusercontent.com/u/143483769?u=2b44aef35264f76f82f08ddfb5cdd0164d046bc2&v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 69
-    name: "lone wolf"
-    login: "de-gall"
-    avatarUrl: https://avatars.githubusercontent.com/u/31445897?v=4
-    contributions: 3
-    company: "Initial D\u00e9veloppement"
-    organizations: ""
-
-  - rank: 70
     name: ""
     login: "Kevy235"
     avatarUrl: https://avatars.githubusercontent.com/u/49596662?u=d5f8799aea65e41ceec5f17f2ec9b3b32380db91&v=4
@@ -2610,7 +2586,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 71
+  - rank: 68
     name: "MBONGO ESSINGONE Ghandy Steeve"
     login: "rhamsesfa"
     avatarUrl: https://avatars.githubusercontent.com/u/55744772?u=b9734241c5f55e22c61490815e9f42119facb078&v=4
@@ -2618,15 +2594,7 @@ users_public_contributions:
     company: "NumerixGab"
     organizations: ""
 
-  - rank: 72
-    name: "julien94"
-    login: "JulienK94"
-    avatarUrl: https://avatars.githubusercontent.com/u/107648086?v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 73
+  - rank: 69
     name: "Pascal Darryl ANGO"
     login: "angopascal2"
     avatarUrl: https://avatars.githubusercontent.com/u/159062335?v=4
@@ -2634,15 +2602,39 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 74
-    name: "Alyster Lendira"
-    login: "alysterlendira"
-    avatarUrl: https://avatars.githubusercontent.com/u/22837464?u=f7911dd504f37e3863e01c7edbb723f081d5dab6&v=4
+  - rank: 70
+    name: "Judas Iscariot"
+    login: "imkowan"
+    avatarUrl: https://avatars.githubusercontent.com/u/143483769?u=2b44aef35264f76f82f08ddfb5cdd0164d046bc2&v=4
     contributions: 3
-    company: "We Make Digital"
+    company: ""
     organizations: ""
 
-  - rank: 75
+  - rank: 71
+    name: "julien94"
+    login: "JulienK94"
+    avatarUrl: https://avatars.githubusercontent.com/u/107648086?v=4
+    contributions: 3
+    company: ""
+    organizations: ""
+
+  - rank: 72
+    name: "lone wolf"
+    login: "de-gall"
+    avatarUrl: https://avatars.githubusercontent.com/u/31445897?v=4
+    contributions: 3
+    company: "Initial D\u00e9veloppement"
+    organizations: ""
+
+  - rank: 73
+    name: "Mida Idiata"
+    login: "midaidiata"
+    avatarUrl: https://avatars.githubusercontent.com/u/171168437?u=39de36e760c58c05f2e73ae0c6ad36b1556f5184&v=4
+    contributions: 3
+    company: ""
+    organizations: ""
+
+  - rank: 74
     name: "PeteTheGamerafter"
     login: "PeteTheGamerafter"
     avatarUrl: https://avatars.githubusercontent.com/u/154711443?u=e88158402e0285bf4963a5bb387bb3a8e9f055a6&v=4
@@ -2650,15 +2642,7 @@ users_public_contributions:
     company: "Caleres"
     organizations: ""
 
-  - rank: 76
-    name: "Luc Prucell"
-    login: "LucasMbele"
-    avatarUrl: https://avatars.githubusercontent.com/u/31856838?u=fa1b3f0acfa8070380f7bb8e4eff41c58ff47901&v=4
-    contributions: 2
-    company: ""
-    organizations: ""
-
-  - rank: 77
+  - rank: 75
     name: "CyberSense D\u00e9veloppement"
     login: "Cybb17dc"
     avatarUrl: https://avatars.githubusercontent.com/u/174995631?u=22fc710ac25df86f6d54ee7c124a61f5cd14f0b9&v=4
@@ -2666,7 +2650,7 @@ users_public_contributions:
     company: "CyberSense Innovation"
     organizations: ""
 
-  - rank: 78
+  - rank: 76
     name: "Lucien EYENE MBA"
     login: "K6klulu0709"
     avatarUrl: https://avatars.githubusercontent.com/u/131795099?v=4
@@ -2674,7 +2658,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 79
+  - rank: 77
     name: "Johnny Nkunku"
     login: "Johnnynkunku"
     avatarUrl: https://avatars.githubusercontent.com/u/133541951?u=bf7a3516379280c89357c6b3e5781b94ef68eddf&v=4
@@ -2682,7 +2666,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 80
+  - rank: 78
     name: "Mebale Noel"
     login: "maestrodimateo"
     avatarUrl: https://avatars.githubusercontent.com/u/40523415?u=57bd73519d7eaaf5cdfa85b46b10a2550de2bdc1&v=4
@@ -2690,7 +2674,15 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 81
+  - rank: 79
+    name: "Alyster Lendira"
+    login: "alysterlendira"
+    avatarUrl: https://avatars.githubusercontent.com/u/22837464?u=f7911dd504f37e3863e01c7edbb723f081d5dab6&v=4
+    contributions: 2
+    company: "We Make Digital"
+    organizations: ""
+
+  - rank: 80
     name: "DAVID"
     login: "davidclaverie"
     avatarUrl: https://avatars.githubusercontent.com/u/78086564?v=4
@@ -2698,12 +2690,20 @@ users_public_contributions:
     company: "ON AIR"
     organizations: ""
 
-  - rank: 82
+  - rank: 81
     name: "meredith"
     login: "kadosh-3rd"
     avatarUrl: https://avatars.githubusercontent.com/u/50160658?u=7c61981e2f8325efbcaf8ed65650673f94142dbe&v=4
     contributions: 2
     company: "PREVAL Softwares"
+    organizations: ""
+
+  - rank: 82
+    name: "WillyX27Code"
+    login: "wilfried-maurice"
+    avatarUrl: https://avatars.githubusercontent.com/u/59978618?u=c2c9188d958047822b48bf3f14de96781614a6b8&v=4
+    contributions: 2
+    company: ""
     organizations: ""
 
   - rank: 83
@@ -2723,35 +2723,35 @@ users_public_contributions:
     organizations: ""
 
   - rank: 85
-    name: "WillyX27Code"
-    login: "wilfried-maurice"
-    avatarUrl: https://avatars.githubusercontent.com/u/59978618?u=c2c9188d958047822b48bf3f14de96781614a6b8&v=4
+    name: "Luc Prucell"
+    login: "LucasMbele"
+    avatarUrl: https://avatars.githubusercontent.com/u/31856838?u=fa1b3f0acfa8070380f7bb8e4eff41c58ff47901&v=4
     contributions: 2
     company: ""
     organizations: ""
 
   - rank: 86
-    name: "Wani"
-    login: "wanidigital"
-    avatarUrl: https://avatars.githubusercontent.com/u/156927025?u=c323548509604e25b0d371788f83af8970a18eb5&v=4
-    contributions: 1
-    company: "Wani"
-    organizations: ""
-
-  - rank: 87
-    name: "Evhy01"
-    login: "Evhy01"
-    avatarUrl: https://avatars.githubusercontent.com/u/146731265?v=4
-    contributions: 1
-    company: "D1-Tech"
-    organizations: ""
-
-  - rank: 88
     name: "Zakari karame "
     login: "Libreville"
     avatarUrl: https://avatars.githubusercontent.com/u/156870392?v=4
     contributions: 1
     company: "Zakarikarame "
+    organizations: ""
+
+  - rank: 87
+    name: ""
+    login: "lascodev"
+    avatarUrl: https://avatars.githubusercontent.com/u/108063016?u=0a1124670eb0e7937711c4fa4a9d842e429a61ed&v=4
+    contributions: 1
+    company: "lascodev"
+    organizations: ""
+
+  - rank: 88
+    name: "sylvestreonline"
+    login: "sylvestreonline"
+    avatarUrl: https://avatars.githubusercontent.com/u/967612?v=4
+    contributions: 1
+    company: "beta41"
     organizations: ""
 
   - rank: 89
@@ -2763,11 +2763,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 90
-    name: "sylvestreonline"
-    login: "sylvestreonline"
-    avatarUrl: https://avatars.githubusercontent.com/u/967612?v=4
+    name: "Evhy01"
+    login: "Evhy01"
+    avatarUrl: https://avatars.githubusercontent.com/u/146731265?v=4
     contributions: 1
-    company: "beta41"
+    company: "D1-Tech"
     organizations: ""
 
   - rank: 91
@@ -2787,14 +2787,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 93
-    name: "Djogona Mahamat"
-    login: "Djomab"
-    avatarUrl: https://avatars.githubusercontent.com/u/24379387?u=81daa319cbb3d05327ee102b31feb8d0ce6eba54&v=4
-    contributions: 1
-    company: ""
-    organizations: ""
-
-  - rank: 94
     name: "Y\u00e9kini ibrahim"
     login: "Developpeurpassionner"
     avatarUrl: https://avatars.githubusercontent.com/u/97056077?v=4
@@ -2802,12 +2794,20 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 95
+  - rank: 94
     name: "O'neil-levy EBANG MBA'A"
     login: "Bono-92b"
     avatarUrl: https://avatars.githubusercontent.com/u/176904325?u=88f05583cb60cdf0bc895d7d75de597ab85bbe68&v=4
     contributions: 1
     company: ""
+    organizations: ""
+
+  - rank: 95
+    name: "Koris Labs Africa"
+    login: "klabs19"
+    avatarUrl: https://avatars.githubusercontent.com/u/66081586?u=8ccafa782f1fbd063ad157d1bda87bf464f8d8a6&v=4
+    contributions: 1
+    company: "Koris Labs Africa"
     organizations: ""
 
   - rank: 96
@@ -2819,9 +2819,9 @@ users_public_contributions:
     organizations: ""
 
   - rank: 97
-    name: "Passy241"
-    login: "techservicespro"
-    avatarUrl: https://avatars.githubusercontent.com/u/72672811?u=0f789885d697258839f9a0a8e84d1e9cc02025b7&v=4
+    name: "Djogona Mahamat"
+    login: "Djomab"
+    avatarUrl: https://avatars.githubusercontent.com/u/24379387?u=81daa319cbb3d05327ee102b31feb8d0ce6eba54&v=4
     contributions: 1
     company: ""
     organizations: ""
@@ -2835,11 +2835,11 @@ users_public_contributions:
     organizations: ""
 
   - rank: 99
-    name: ""
-    login: "lascodev"
-    avatarUrl: https://avatars.githubusercontent.com/u/108063016?u=0a1124670eb0e7937711c4fa4a9d842e429a61ed&v=4
+    name: "Passy241"
+    login: "techservicespro"
+    avatarUrl: https://avatars.githubusercontent.com/u/72672811?u=0f789885d697258839f9a0a8e84d1e9cc02025b7&v=4
     contributions: 1
-    company: "lascodev"
+    company: ""
     organizations: ""
 
   - rank: 100
@@ -2851,19 +2851,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 101
+    name: "Wani"
+    login: "wanidigital"
+    avatarUrl: https://avatars.githubusercontent.com/u/156927025?u=c323548509604e25b0d371788f83af8970a18eb5&v=4
+    contributions: 1
+    company: "Wani"
+    organizations: ""
+
+  - rank: 102
     name: "MARIYA-ONDZAGHE Carole Estrellia"
     login: "omeccemoce"
     avatarUrl: https://avatars.githubusercontent.com/u/158685850?v=4
     contributions: 1
     company: ""
-    organizations: ""
-
-  - rank: 102
-    name: "Koris Labs Africa"
-    login: "klabs19"
-    avatarUrl: https://avatars.githubusercontent.com/u/66081586?u=8ccafa782f1fbd063ad157d1bda87bf464f8d8a6&v=4
-    contributions: 1
-    company: "Koris Labs Africa"
     organizations: ""
 
   - rank: 103
@@ -3035,19 +3035,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 124
-    name: "OYONO NSO King Ferdinand"
-    login: "robiking22"
-    avatarUrl: https://avatars.githubusercontent.com/u/78202121?u=80501aaa71b5c4671ba58cfd78d3416f90c53fa9&v=4
-    contributions: 0
-    company: "Ciatel Inc"
-    organizations: ""
-
-  - rank: 125
     name: "Ghislaine REMONDO"
     login: "gigimmn1"
     avatarUrl: https://avatars.githubusercontent.com/u/66904954?v=4
     contributions: 0
     company: ""
+    organizations: ""
+
+  - rank: 125
+    name: "OYONO NSO King Ferdinand"
+    login: "robiking22"
+    avatarUrl: https://avatars.githubusercontent.com/u/78202121?u=80501aaa71b5c4671ba58cfd78d3416f90c53fa9&v=4
+    contributions: 0
+    company: "Ciatel Inc"
     organizations: ""
 
   - rank: 126
@@ -3411,14 +3411,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 171
-    name: "Rafiki"
-    login: "Mistgan"
-    avatarUrl: https://avatars.githubusercontent.com/u/41150476?u=6aadb67e25cbaae58b1578af2df000488f639671&v=4
-    contributions: 0
-    company: "Mandrill  Corporation"
-    organizations: ""
-
-  - rank: 172
     name: "Slenhtech Corp"
     login: "slenhtech"
     avatarUrl: https://avatars.githubusercontent.com/u/13546392?u=22f86c23b2d700f993ed8bd2772c70b522b61940&v=4
@@ -3426,7 +3418,7 @@ users_public_contributions:
     company: "Slenhtech Corp"
     organizations: ""
 
-  - rank: 173
+  - rank: 172
     name: "Varney MONDJO"
     login: "Varfront"
     avatarUrl: https://avatars.githubusercontent.com/u/66923065?u=644aa82f5410072b4fb1991df9d01bfb26b0cada&v=4
@@ -3434,7 +3426,7 @@ users_public_contributions:
     company: "@CodarisGA "
     organizations: ""
 
-  - rank: 174
+  - rank: 173
     name: "Badol Team"
     login: "zebadol"
     avatarUrl: https://avatars.githubusercontent.com/u/80464944?u=a19f1db163a2c0aed33fdfa534d281340dde50e2&v=4
@@ -3442,7 +3434,7 @@ users_public_contributions:
     company: "Badol"
     organizations: ""
 
-  - rank: 175
+  - rank: 174
     name: "SERV_IT"
     login: "AbelGG-It"
     avatarUrl: https://avatars.githubusercontent.com/u/90451293?u=3739eac23b39c3bd10fe814e87551460c9391630&v=4
@@ -3450,12 +3442,20 @@ users_public_contributions:
     company: "Group-GED"
     organizations: ""
 
-  - rank: 176
+  - rank: 175
     name: "King elprofa"
     login: "elprofa"
     avatarUrl: https://avatars.githubusercontent.com/u/76491497?u=03a3f70faa3fa735e75b21802e54340f5d92d2b1&v=4
     contributions: 0
     company: "eddocs"
+    organizations: ""
+
+  - rank: 176
+    name: "Rafiki"
+    login: "Mistgan"
+    avatarUrl: https://avatars.githubusercontent.com/u/41150476?u=6aadb67e25cbaae58b1578af2df000488f639671&v=4
+    contributions: 0
+    company: "Mandrill  Corporation"
     organizations: ""
 
   - rank: 177
@@ -3835,19 +3835,19 @@ users_public_contributions:
     organizations: ""
 
   - rank: 224
-    name: "Maximus"
-    login: "maximus196"
-    avatarUrl: https://avatars.githubusercontent.com/u/57839461?u=d2c98e014efe286aaf4c2d6a5e8dd671710d8122&v=4
-    contributions: 0
-    company: "BS Gabon"
-    organizations: ""
-
-  - rank: 225
     name: "Igondjo Carter"
     login: "lenamyco"
     avatarUrl: https://avatars.githubusercontent.com/u/10454389?v=4
     contributions: 0
     company: "Lenamy.com"
+    organizations: ""
+
+  - rank: 225
+    name: "Alexandre Kaze"
+    login: "zekaze"
+    avatarUrl: https://avatars.githubusercontent.com/u/12454365?u=dcf05b23ad7a50518d59b8588391cf1ca11ee02b&v=4
+    contributions: 0
+    company: "Alexandre Kaze"
     organizations: ""
 
   - rank: 226
@@ -3859,14 +3859,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 227
-    name: "BAMBO Le Bonheur"
-    login: "Lebonheur2370"
-    avatarUrl: https://avatars.githubusercontent.com/u/127909254?u=920d0cbcf11300abb882ada73fe9ea569a52073f&v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 228
     name: "Brell"
     login: "Brelldesi"
     avatarUrl: https://avatars.githubusercontent.com/u/104839400?v=4
@@ -3874,12 +3866,20 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 229
+  - rank: 228
     name: ""
     login: "Kbz-IT"
     avatarUrl: https://avatars.githubusercontent.com/u/69463642?v=4
     contributions: 0
     company: "Micronium"
+    organizations: ""
+
+  - rank: 229
+    name: "Maximus"
+    login: "maximus196"
+    avatarUrl: https://avatars.githubusercontent.com/u/57839461?u=d2c98e014efe286aaf4c2d6a5e8dd671710d8122&v=4
+    contributions: 0
+    company: "BS Gabon"
     organizations: ""
 
   - rank: 230
@@ -4027,14 +4027,6 @@ users_public_contributions:
     organizations: ""
 
   - rank: 248
-    name: "Paterne DIBACKA"
-    login: "tbadepat"
-    avatarUrl: https://avatars.githubusercontent.com/u/11478306?u=dd304116ac17a14527b3857d98372a35b1671d7e&v=4
-    contributions: 0
-    company: "SEM"
-    organizations: ""
-
-  - rank: 249
     name: "Ousseyni TIAMA"
     login: "thity14"
     avatarUrl: https://avatars.githubusercontent.com/u/79253533?u=7ce34c9261649b1f3ef25de56e2d54c360b57d69&v=4
@@ -4042,7 +4034,7 @@ users_public_contributions:
     company: "Institut Africain d'Informatique"
     organizations: ""
 
-  - rank: 250
+  - rank: 249
     name: "Menany Walty"
     login: "waltysama"
     avatarUrl: https://avatars.githubusercontent.com/u/29609768?v=4
@@ -4050,7 +4042,7 @@ users_public_contributions:
     company: "orixas"
     organizations: ""
 
-  - rank: 251
+  - rank: 250
     name: "Yabre Oumar"
     login: "yabross"
     avatarUrl: https://avatars.githubusercontent.com/u/28543054?v=4
@@ -4058,7 +4050,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 252
+  - rank: 251
     name: "OBH"
     login: "HerveOssavou"
     avatarUrl: https://avatars.githubusercontent.com/u/22029070?v=4
@@ -4066,7 +4058,7 @@ users_public_contributions:
     company: ""
     organizations: ""
 
-  - rank: 253
+  - rank: 252
     name: "Justinho MIKALA"
     login: "justinhomikala"
     avatarUrl: https://avatars.githubusercontent.com/u/54251151?u=1149b59c7fb049cb87c666f5ab6b22614fc49edf&v=4
@@ -4074,7 +4066,7 @@ users_public_contributions:
     company: "Asdecod"
     organizations: ""
 
-  - rank: 254
+  - rank: 253
     name: "Kami-sama"
     login: "Mr-Nobody117"
     avatarUrl: https://avatars.githubusercontent.com/u/37465079?u=1b23f5ff458f93eda6c1afdd688d3a19f5a2bb7d&v=4
@@ -4082,12 +4074,20 @@ users_public_contributions:
     company: "Zaun StartUp"
     organizations: ""
 
-  - rank: 255
+  - rank: 254
     name: "Henry Mdjiyengar"
     login: "Boyca235"
     avatarUrl: https://avatars.githubusercontent.com/u/51931742?v=4
     contributions: 0
     company: ""
+    organizations: ""
+
+  - rank: 255
+    name: "Paterne DIBACKA"
+    login: "tbadepat"
+    avatarUrl: https://avatars.githubusercontent.com/u/11478306?u=dd304116ac17a14527b3857d98372a35b1671d7e&v=4
+    contributions: 0
+    company: "SEM"
     organizations: ""
 
   - rank: 256
@@ -4104,7 +4104,7 @@ private_users:
     name: "Cedric Megnie N."
     login: "stoneC0der"
     avatarUrl: https://avatars.githubusercontent.com/u/11365636?u=7ee894aedebdbf8ac21ef729005736c6c7283c47&v=4
-    contributions: 5605
+    contributions: 5611
     company: "@Reachafrika-Technicals, Freelance"
     organizations: ""
 
@@ -4112,7 +4112,7 @@ private_users:
     name: "Aristide Mebodo"
     login: "Marseven"
     avatarUrl: https://avatars.githubusercontent.com/u/18088746?u=53df1c07b98ca9a678b229b4a47f063541c2ab59&v=4
-    contributions: 817
+    contributions: 715
     company: "Mood"
     organizations: ""
 
@@ -4120,7 +4120,7 @@ private_users:
     name: "Mbiamou Richy"
     login: "MbiamouRichy"
     avatarUrl: https://avatars.githubusercontent.com/u/100800465?u=775856dbcbda39d50624dbf5bf20b5d723d0f89e&v=4
-    contributions: 455
+    contributions: 469
     company: "Freelance"
     organizations: ""
 
@@ -4128,7 +4128,7 @@ private_users:
     name: "Benji_Mawax"
     login: "b1jimawax"
     avatarUrl: https://avatars.githubusercontent.com/u/91673919?u=e2421e8d8d3b746ebb39609f42e3e18f9c7cd490&v=4
-    contributions: 421
+    contributions: 414
     company: ""
     organizations: ""
 
@@ -4136,7 +4136,7 @@ private_users:
     name: "ONDO ABAGHE Rooly Marvin"
     login: "LeeMarvin94"
     avatarUrl: https://avatars.githubusercontent.com/u/101655162?v=4
-    contributions: 332
+    contributions: 319
     company: "Fablab Moanda"
     organizations: ""
 
@@ -4144,7 +4144,7 @@ private_users:
     name: "TSIANGA Govane"
     login: "DonTG19"
     avatarUrl: https://avatars.githubusercontent.com/u/51302982?u=6b59b29473bc835ddcdfef9930981e89551e37a4&v=4
-    contributions: 269
+    contributions: 270
     company: "Tidgi"
     organizations: ""
 
@@ -4152,7 +4152,7 @@ private_users:
     name: "Mouckeytou Moulongui"
     login: "dynamo63"
     avatarUrl: https://avatars.githubusercontent.com/u/47111998?u=04bc27b572876b9b36a19af7c38375d993d0d2f8&v=4
-    contributions: 228
+    contributions: 225
     company: ""
     organizations: ""
 
@@ -4160,7 +4160,7 @@ private_users:
     name: "Shikamaru_Le_Front-end"
     login: "11999977"
     avatarUrl: https://avatars.githubusercontent.com/u/138582296?u=2e6a8061732e7518667d2a386e42ba6e90e37412&v=4
-    contributions: 171
+    contributions: 165
     company: ""
     organizations: ""
 
@@ -4213,14 +4213,6 @@ private_users:
     organizations: ""
 
   - rank: 15
-    name: "Dimitri ONGOUA"
-    login: "mendoc"
-    avatarUrl: https://avatars.githubusercontent.com/u/19912551?u=c532e2785790a6bc66bdca071a0ff369398a63c4&v=4
-    contributions: 111
-    company: "Fablab Moanda"
-    organizations: ""
-
-  - rank: 16
     name: "Abdoulaye Dong"
     login: "abdoulayedong"
     avatarUrl: https://avatars.githubusercontent.com/u/37236067?u=fde4e2925d0720e9a2dc4d24efeefcaecb7b24d4&v=4
@@ -4228,12 +4220,20 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 17
+  - rank: 16
     name: "Coulon BANGOLA"
     login: "Coulon-H"
     avatarUrl: https://avatars.githubusercontent.com/u/66695585?v=4
     contributions: 111
     company: ""
+    organizations: ""
+
+  - rank: 17
+    name: "Dimitri ONGOUA"
+    login: "mendoc"
+    avatarUrl: https://avatars.githubusercontent.com/u/19912551?u=c532e2785790a6bc66bdca071a0ff369398a63c4&v=4
+    contributions: 110
+    company: "Fablab Moanda"
     organizations: ""
 
   - rank: 18
@@ -4280,7 +4280,7 @@ private_users:
     name: "Serdi"
     login: "serdiDev"
     avatarUrl: https://avatars.githubusercontent.com/u/45342658?u=416583703980780e18dbba78a15c7646f5d0a992&v=4
-    contributions: 80
+    contributions: 78
     company: "GMAC"
     organizations: "digital-iai"
 
@@ -4317,14 +4317,6 @@ private_users:
     organizations: ""
 
   - rank: 28
-    name: "stephydlb"
-    login: "stephydlb"
-    avatarUrl: https://avatars.githubusercontent.com/u/111629805?u=6d3fd78ff44388d124be91452440c564e1d4fdb2&v=4
-    contributions: 72
-    company: "etudies"
-    organizations: ""
-
-  - rank: 29
     name: "Yohann Obiang"
     login: "YohannObiang"
     avatarUrl: https://avatars.githubusercontent.com/u/104835751?u=ee226cbc963e28095fa24dd11b9061027d12e6bb&v=4
@@ -4332,7 +4324,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 30
+  - rank: 29
     name: "Yannick ABOH"
     login: "yannickaboh"
     avatarUrl: https://avatars.githubusercontent.com/u/23084185?u=61ffbc8a5feb758a211f6f92c5818773e7395f5c&v=4
@@ -4340,12 +4332,20 @@ private_users:
     company: "AYATECH "
     organizations: ""
 
-  - rank: 31
+  - rank: 30
     name: "MOMBO Eben"
     login: "EbenEzer-MOMBO"
     avatarUrl: https://avatars.githubusercontent.com/u/120035192?u=1d4b5015b7b6ecee3e966f1463339a047678ca7e&v=4
     contributions: 64
     company: ""
+    organizations: ""
+
+  - rank: 31
+    name: "stephydlb"
+    login: "stephydlb"
+    avatarUrl: https://avatars.githubusercontent.com/u/111629805?u=6d3fd78ff44388d124be91452440c564e1d4fdb2&v=4
+    contributions: 61
+    company: "etudies"
     organizations: ""
 
   - rank: 32
@@ -4376,7 +4376,7 @@ private_users:
     name: "Francis"
     login: "FSeneve"
     avatarUrl: https://avatars.githubusercontent.com/u/110477973?u=c7f9e8f82dc9165950114d664b221b0569660df1&v=4
-    contributions: 44
+    contributions: 43
     company: "Digisene"
     organizations: ""
 
@@ -4384,7 +4384,7 @@ private_users:
     name: ""
     login: "scoba6"
     avatarUrl: https://avatars.githubusercontent.com/u/30085964?v=4
-    contributions: 41
+    contributions: 40
     company: "OXILYUM"
     organizations: ""
 
@@ -4392,7 +4392,7 @@ private_users:
     name: "Ephra\u00efm SEDDOR"
     login: "mawuva"
     avatarUrl: https://avatars.githubusercontent.com/u/22901277?u=f38375c9386043ce745c1094923c708ac74b95cf&v=4
-    contributions: 36
+    contributions: 34
     company: ""
     organizations: ""
 
@@ -4421,19 +4421,19 @@ private_users:
     organizations: ""
 
   - rank: 41
-    name: ""
-    login: "Mbaiwodji"
-    avatarUrl: https://avatars.githubusercontent.com/u/41707474?u=3e2795f521d366a8c1793c88488ee3ece8f6912d&v=4
-    contributions: 23
-    company: "IT CORP"
-    organizations: ""
-
-  - rank: 42
     name: "Gabin Moundziegou"
     login: "Steeven1995"
     avatarUrl: https://avatars.githubusercontent.com/u/40131929?u=af2091ee554ed2a4d0b81923b211693b2482d53f&v=4
     contributions: 23
     company: ""
+    organizations: ""
+
+  - rank: 42
+    name: ""
+    login: "Mbaiwodji"
+    avatarUrl: https://avatars.githubusercontent.com/u/41707474?u=3e2795f521d366a8c1793c88488ee3ece8f6912d&v=4
+    contributions: 23
+    company: "IT CORP"
     organizations: ""
 
   - rank: 43
@@ -4557,14 +4557,6 @@ private_users:
     organizations: ""
 
   - rank: 58
-    name: "Guelor Abel ANGO"
-    login: "GuelorAbel"
-    avatarUrl: https://avatars.githubusercontent.com/u/70885062?u=d38eb4c0a7ae33d2916b5b579c16288433b3e8e0&v=4
-    contributions: 8
-    company: ""
-    organizations: ""
-
-  - rank: 59
     name: "Hilarion KUASSIA"
     login: "BriceHache"
     avatarUrl: https://avatars.githubusercontent.com/u/35991565?u=6496e004b355f1af40cb4ff6a310656fe415f812&v=4
@@ -4572,20 +4564,28 @@ private_users:
     company: "EASYTECH AFRICA"
     organizations: ""
 
+  - rank: 59
+    name: "Guelor Abel ANGO"
+    login: "GuelorAbel"
+    avatarUrl: https://avatars.githubusercontent.com/u/70885062?u=d38eb4c0a7ae33d2916b5b579c16288433b3e8e0&v=4
+    contributions: 8
+    company: ""
+    organizations: ""
+
   - rank: 60
     name: "NZOLO MINKO Michel"
     login: "NZOLO"
     avatarUrl: https://avatars.githubusercontent.com/u/39587265?u=2b57767c6eed215116e56ef3e4afc40a8f9c3a12&v=4
-    contributions: 8
+    contributions: 7
     company: "MYTECH GAB'ON"
     organizations: ""
 
   - rank: 61
-    name: "Joseph Donovan BIBANG BEFENE"
-    login: "bibangjoseph"
-    avatarUrl: https://avatars.githubusercontent.com/u/20001804?u=3dea43010ab00d3cefa5ccfaa84911c46089c5ea&v=4
+    name: "ANVANE Marcel"
+    login: "MarcelWeb007"
+    avatarUrl: https://avatars.githubusercontent.com/u/53498389?u=96652654352484458d4d6abcc1906cc4a735b915&v=4
     contributions: 6
-    company: ""
+    company: "Informaticiens du web"
     organizations: ""
 
   - rank: 62
@@ -4597,19 +4597,19 @@ private_users:
     organizations: ""
 
   - rank: 63
+    name: "Joseph Donovan BIBANG BEFENE"
+    login: "bibangjoseph"
+    avatarUrl: https://avatars.githubusercontent.com/u/20001804?u=3dea43010ab00d3cefa5ccfaa84911c46089c5ea&v=4
+    contributions: 6
+    company: ""
+    organizations: ""
+
+  - rank: 64
     name: "341WhiteCorsairhand"
     login: "341WhiteCorsairhand"
     avatarUrl: https://avatars.githubusercontent.com/u/154698569?u=02e9839d1dbbd82085be67a4fe9df3b4ae047ace&v=4
     contributions: 6
     company: "AIG"
-    organizations: ""
-
-  - rank: 64
-    name: "ANVANE Marcel"
-    login: "MarcelWeb007"
-    avatarUrl: https://avatars.githubusercontent.com/u/53498389?u=96652654352484458d4d6abcc1906cc4a735b915&v=4
-    contributions: 6
-    company: "Informaticiens du web"
     organizations: ""
 
   - rank: 65
@@ -4621,19 +4621,19 @@ private_users:
     organizations: ""
 
   - rank: 66
-    name: "Michel NZOLO"
-    login: "MichelNZOLO"
-    avatarUrl: https://avatars.githubusercontent.com/u/98606233?u=c7cade1b9dff0952098c75a49724517d5a58e596&v=4
-    contributions: 5
-    company: "GSEZ"
-    organizations: ""
-
-  - rank: 67
     name: "Ebamco Djatto"
     login: "EbamcoDjatto"
     avatarUrl: https://avatars.githubusercontent.com/u/20635097?u=b6f3d8af9d8c8dcb211691933047ee9ebb7a7348&v=4
     contributions: 5
     company: ""
+    organizations: ""
+
+  - rank: 67
+    name: "Michel NZOLO"
+    login: "MichelNZOLO"
+    avatarUrl: https://avatars.githubusercontent.com/u/98606233?u=c7cade1b9dff0952098c75a49724517d5a58e596&v=4
+    contributions: 5
+    company: "GSEZ"
     organizations: ""
 
   - rank: 68
@@ -4661,22 +4661,6 @@ private_users:
     organizations: ""
 
   - rank: 71
-    name: "lone wolf"
-    login: "de-gall"
-    avatarUrl: https://avatars.githubusercontent.com/u/31445897?v=4
-    contributions: 3
-    company: "Initial D\u00e9veloppement"
-    organizations: ""
-
-  - rank: 72
-    name: "Alyster Lendira"
-    login: "alysterlendira"
-    avatarUrl: https://avatars.githubusercontent.com/u/22837464?u=f7911dd504f37e3863e01c7edbb723f081d5dab6&v=4
-    contributions: 3
-    company: "We Make Digital"
-    organizations: ""
-
-  - rank: 73
     name: "MBONGO ESSINGONE Ghandy Steeve"
     login: "rhamsesfa"
     avatarUrl: https://avatars.githubusercontent.com/u/55744772?u=b9734241c5f55e22c61490815e9f42119facb078&v=4
@@ -4684,15 +4668,7 @@ private_users:
     company: "NumerixGab"
     organizations: ""
 
-  - rank: 74
-    name: "PeteTheGamerafter"
-    login: "PeteTheGamerafter"
-    avatarUrl: https://avatars.githubusercontent.com/u/154711443?u=e88158402e0285bf4963a5bb387bb3a8e9f055a6&v=4
-    contributions: 3
-    company: "Caleres"
-    organizations: ""
-
-  - rank: 75
+  - rank: 72
     name: "Mida Idiata"
     login: "midaidiata"
     avatarUrl: https://avatars.githubusercontent.com/u/171168437?u=39de36e760c58c05f2e73ae0c6ad36b1556f5184&v=4
@@ -4700,15 +4676,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 76
-    name: "julien94"
-    login: "JulienK94"
-    avatarUrl: https://avatars.githubusercontent.com/u/107648086?v=4
-    contributions: 3
-    company: ""
-    organizations: ""
-
-  - rank: 77
+  - rank: 73
     name: ""
     login: "Kevy235"
     avatarUrl: https://avatars.githubusercontent.com/u/49596662?u=d5f8799aea65e41ceec5f17f2ec9b3b32380db91&v=4
@@ -4716,7 +4684,31 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 78
+  - rank: 74
+    name: "lone wolf"
+    login: "de-gall"
+    avatarUrl: https://avatars.githubusercontent.com/u/31445897?v=4
+    contributions: 3
+    company: "Initial D\u00e9veloppement"
+    organizations: ""
+
+  - rank: 75
+    name: "julien94"
+    login: "JulienK94"
+    avatarUrl: https://avatars.githubusercontent.com/u/107648086?v=4
+    contributions: 3
+    company: ""
+    organizations: ""
+
+  - rank: 76
+    name: "PeteTheGamerafter"
+    login: "PeteTheGamerafter"
+    avatarUrl: https://avatars.githubusercontent.com/u/154711443?u=e88158402e0285bf4963a5bb387bb3a8e9f055a6&v=4
+    contributions: 3
+    company: "Caleres"
+    organizations: ""
+
+  - rank: 77
     name: "Pascal Darryl ANGO"
     login: "angopascal2"
     avatarUrl: https://avatars.githubusercontent.com/u/159062335?v=4
@@ -4724,15 +4716,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 79
-    name: "Lucien EYENE MBA"
-    login: "K6klulu0709"
-    avatarUrl: https://avatars.githubusercontent.com/u/131795099?v=4
-    contributions: 2
-    company: ""
-    organizations: ""
-
-  - rank: 80
+  - rank: 78
     name: "Luc Prucell"
     login: "LucasMbele"
     avatarUrl: https://avatars.githubusercontent.com/u/31856838?u=fa1b3f0acfa8070380f7bb8e4eff41c58ff47901&v=4
@@ -4740,7 +4724,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 81
+  - rank: 79
     name: "DAVID"
     login: "davidclaverie"
     avatarUrl: https://avatars.githubusercontent.com/u/78086564?v=4
@@ -4748,12 +4732,28 @@ private_users:
     company: "ON AIR"
     organizations: ""
 
-  - rank: 82
+  - rank: 80
+    name: "Alyster Lendira"
+    login: "alysterlendira"
+    avatarUrl: https://avatars.githubusercontent.com/u/22837464?u=f7911dd504f37e3863e01c7edbb723f081d5dab6&v=4
+    contributions: 2
+    company: "We Make Digital"
+    organizations: ""
+
+  - rank: 81
     name: "Johnny Nkunku"
     login: "Johnnynkunku"
     avatarUrl: https://avatars.githubusercontent.com/u/133541951?u=bf7a3516379280c89357c6b3e5781b94ef68eddf&v=4
     contributions: 2
     company: ""
+    organizations: ""
+
+  - rank: 82
+    name: "CyberSense D\u00e9veloppement"
+    login: "Cybb17dc"
+    avatarUrl: https://avatars.githubusercontent.com/u/174995631?u=22fc710ac25df86f6d54ee7c124a61f5cd14f0b9&v=4
+    contributions: 2
+    company: "CyberSense Innovation"
     organizations: ""
 
   - rank: 83
@@ -4773,19 +4773,19 @@ private_users:
     organizations: ""
 
   - rank: 85
-    name: "CyberSense D\u00e9veloppement"
-    login: "Cybb17dc"
-    avatarUrl: https://avatars.githubusercontent.com/u/174995631?u=22fc710ac25df86f6d54ee7c124a61f5cd14f0b9&v=4
-    contributions: 2
-    company: "CyberSense Innovation"
-    organizations: ""
-
-  - rank: 86
     name: "Moundziegou"
     login: "SlymDev"
     avatarUrl: https://avatars.githubusercontent.com/u/10731972?u=25919e6033398b99f3aab96917beee49a1757ceb&v=4
     contributions: 2
     company: "SlymDev"
+    organizations: ""
+
+  - rank: 86
+    name: "Lucien EYENE MBA"
+    login: "K6klulu0709"
+    avatarUrl: https://avatars.githubusercontent.com/u/131795099?v=4
+    contributions: 2
+    company: ""
     organizations: ""
 
   - rank: 87
@@ -4805,11 +4805,11 @@ private_users:
     organizations: ""
 
   - rank: 89
-    name: "sylvestreonline"
-    login: "sylvestreonline"
-    avatarUrl: https://avatars.githubusercontent.com/u/967612?v=4
+    name: "Y\u00e9kini ibrahim"
+    login: "Developpeurpassionner"
+    avatarUrl: https://avatars.githubusercontent.com/u/97056077?v=4
     contributions: 1
-    company: "beta41"
+    company: ""
     organizations: ""
 
   - rank: 90
@@ -4821,11 +4821,11 @@ private_users:
     organizations: ""
 
   - rank: 91
-    name: "Y\u00e9kini ibrahim"
-    login: "Developpeurpassionner"
-    avatarUrl: https://avatars.githubusercontent.com/u/97056077?v=4
+    name: "Koris Labs Africa"
+    login: "klabs19"
+    avatarUrl: https://avatars.githubusercontent.com/u/66081586?u=8ccafa782f1fbd063ad157d1bda87bf464f8d8a6&v=4
     contributions: 1
-    company: ""
+    company: "Koris Labs Africa"
     organizations: ""
 
   - rank: 92
@@ -4837,22 +4837,14 @@ private_users:
     organizations: ""
 
   - rank: 93
-    name: "Koris Labs Africa"
-    login: "klabs19"
-    avatarUrl: https://avatars.githubusercontent.com/u/66081586?u=8ccafa782f1fbd063ad157d1bda87bf464f8d8a6&v=4
+    name: "Big Ted"
+    login: "tedlebig"
+    avatarUrl: https://avatars.githubusercontent.com/u/155996016?v=4
     contributions: 1
-    company: "Koris Labs Africa"
+    company: ""
     organizations: ""
 
   - rank: 94
-    name: "Wani"
-    login: "wanidigital"
-    avatarUrl: https://avatars.githubusercontent.com/u/156927025?u=c323548509604e25b0d371788f83af8970a18eb5&v=4
-    contributions: 1
-    company: "Wani"
-    organizations: ""
-
-  - rank: 95
     name: "Zakari karame "
     login: "Libreville"
     avatarUrl: https://avatars.githubusercontent.com/u/156870392?v=4
@@ -4860,12 +4852,20 @@ private_users:
     company: "Zakarikarame "
     organizations: ""
 
-  - rank: 96
+  - rank: 95
     name: "Orph\u00e9"
     login: "OrpheNgoma"
     avatarUrl: https://avatars.githubusercontent.com/u/40517737?v=4
     contributions: 1
     company: "Informaticiens Du Web"
+    organizations: ""
+
+  - rank: 96
+    name: "Wani"
+    login: "wanidigital"
+    avatarUrl: https://avatars.githubusercontent.com/u/156927025?u=c323548509604e25b0d371788f83af8970a18eb5&v=4
+    contributions: 1
+    company: "Wani"
     organizations: ""
 
   - rank: 97
@@ -4877,19 +4877,19 @@ private_users:
     organizations: ""
 
   - rank: 98
-    name: "Passy241"
-    login: "techservicespro"
-    avatarUrl: https://avatars.githubusercontent.com/u/72672811?u=0f789885d697258839f9a0a8e84d1e9cc02025b7&v=4
+    name: ""
+    login: "lascodev"
+    avatarUrl: https://avatars.githubusercontent.com/u/108063016?u=0a1124670eb0e7937711c4fa4a9d842e429a61ed&v=4
     contributions: 1
-    company: ""
+    company: "lascodev"
     organizations: ""
 
   - rank: 99
-    name: "tleluc"
-    login: "tleluc"
-    avatarUrl: https://avatars.githubusercontent.com/u/10956782?v=4
+    name: "sylvestreonline"
+    login: "sylvestreonline"
+    avatarUrl: https://avatars.githubusercontent.com/u/967612?v=4
     contributions: 1
-    company: "CATALYST"
+    company: "beta41"
     organizations: ""
 
   - rank: 100
@@ -4901,11 +4901,11 @@ private_users:
     organizations: ""
 
   - rank: 101
-    name: ""
-    login: "lascodev"
-    avatarUrl: https://avatars.githubusercontent.com/u/108063016?u=0a1124670eb0e7937711c4fa4a9d842e429a61ed&v=4
+    name: "Passy241"
+    login: "techservicespro"
+    avatarUrl: https://avatars.githubusercontent.com/u/72672811?u=0f789885d697258839f9a0a8e84d1e9cc02025b7&v=4
     contributions: 1
-    company: "lascodev"
+    company: ""
     organizations: ""
 
   - rank: 102
@@ -4933,11 +4933,11 @@ private_users:
     organizations: ""
 
   - rank: 105
-    name: "Big Ted"
-    login: "tedlebig"
-    avatarUrl: https://avatars.githubusercontent.com/u/155996016?v=4
+    name: "tleluc"
+    login: "tleluc"
+    avatarUrl: https://avatars.githubusercontent.com/u/10956782?v=4
     contributions: 1
-    company: ""
+    company: "CATALYST"
     organizations: ""
 
   - rank: 106
@@ -5085,19 +5085,19 @@ private_users:
     organizations: ""
 
   - rank: 124
-    name: "OYONO NSO King Ferdinand"
-    login: "robiking22"
-    avatarUrl: https://avatars.githubusercontent.com/u/78202121?u=80501aaa71b5c4671ba58cfd78d3416f90c53fa9&v=4
-    contributions: 0
-    company: "Ciatel Inc"
-    organizations: ""
-
-  - rank: 125
     name: "InformaticiensDuWeb"
     login: "IDW241"
     avatarUrl: https://avatars.githubusercontent.com/u/60753836?u=a39ff593c76a87e9911a609390df9b9a3d709151&v=4
     contributions: 0
     company: "IDW"
+    organizations: ""
+
+  - rank: 125
+    name: "OYONO NSO King Ferdinand"
+    login: "robiking22"
+    avatarUrl: https://avatars.githubusercontent.com/u/78202121?u=80501aaa71b5c4671ba58cfd78d3416f90c53fa9&v=4
+    contributions: 0
+    company: "Ciatel Inc"
     organizations: ""
 
   - rank: 126
@@ -5461,14 +5461,6 @@ private_users:
     organizations: ""
 
   - rank: 171
-    name: "Rafiki"
-    login: "Mistgan"
-    avatarUrl: https://avatars.githubusercontent.com/u/41150476?u=6aadb67e25cbaae58b1578af2df000488f639671&v=4
-    contributions: 0
-    company: "Mandrill  Corporation"
-    organizations: ""
-
-  - rank: 172
     name: "Regis Obiang"
     login: "RegisOB"
     avatarUrl: https://avatars.githubusercontent.com/u/8060856?u=fc9ceba6e640233f5ee1ea35f35b32edca9c7616&v=4
@@ -5476,7 +5468,7 @@ private_users:
     company: "WHO"
     organizations: ""
 
-  - rank: 173
+  - rank: 172
     name: "Varney MONDJO"
     login: "Varfront"
     avatarUrl: https://avatars.githubusercontent.com/u/66923065?u=644aa82f5410072b4fb1991df9d01bfb26b0cada&v=4
@@ -5484,7 +5476,7 @@ private_users:
     company: "@CodarisGA "
     organizations: ""
 
-  - rank: 174
+  - rank: 173
     name: "Badol Team"
     login: "zebadol"
     avatarUrl: https://avatars.githubusercontent.com/u/80464944?u=a19f1db163a2c0aed33fdfa534d281340dde50e2&v=4
@@ -5492,7 +5484,7 @@ private_users:
     company: "Badol"
     organizations: ""
 
-  - rank: 175
+  - rank: 174
     name: "SERV_IT"
     login: "AbelGG-It"
     avatarUrl: https://avatars.githubusercontent.com/u/90451293?u=3739eac23b39c3bd10fe814e87551460c9391630&v=4
@@ -5500,12 +5492,20 @@ private_users:
     company: "Group-GED"
     organizations: ""
 
-  - rank: 176
+  - rank: 175
     name: "King elprofa"
     login: "elprofa"
     avatarUrl: https://avatars.githubusercontent.com/u/76491497?u=03a3f70faa3fa735e75b21802e54340f5d92d2b1&v=4
     contributions: 0
     company: "eddocs"
+    organizations: ""
+
+  - rank: 176
+    name: "Rafiki"
+    login: "Mistgan"
+    avatarUrl: https://avatars.githubusercontent.com/u/41150476?u=6aadb67e25cbaae58b1578af2df000488f639671&v=4
+    contributions: 0
+    company: "Mandrill  Corporation"
     organizations: ""
 
   - rank: 177
@@ -5885,19 +5885,19 @@ private_users:
     organizations: ""
 
   - rank: 224
-    name: "Maximus"
-    login: "maximus196"
-    avatarUrl: https://avatars.githubusercontent.com/u/57839461?u=d2c98e014efe286aaf4c2d6a5e8dd671710d8122&v=4
-    contributions: 0
-    company: "BS Gabon"
-    organizations: ""
-
-  - rank: 225
     name: "Igondjo Carter"
     login: "lenamyco"
     avatarUrl: https://avatars.githubusercontent.com/u/10454389?v=4
     contributions: 0
     company: "Lenamy.com"
+    organizations: ""
+
+  - rank: 225
+    name: "Alexandre Kaze"
+    login: "zekaze"
+    avatarUrl: https://avatars.githubusercontent.com/u/12454365?u=dcf05b23ad7a50518d59b8588391cf1ca11ee02b&v=4
+    contributions: 0
+    company: "Alexandre Kaze"
     organizations: ""
 
   - rank: 226
@@ -5909,14 +5909,6 @@ private_users:
     organizations: ""
 
   - rank: 227
-    name: "BAMBO Le Bonheur"
-    login: "Lebonheur2370"
-    avatarUrl: https://avatars.githubusercontent.com/u/127909254?u=920d0cbcf11300abb882ada73fe9ea569a52073f&v=4
-    contributions: 0
-    company: ""
-    organizations: ""
-
-  - rank: 228
     name: "Brell"
     login: "Brelldesi"
     avatarUrl: https://avatars.githubusercontent.com/u/104839400?v=4
@@ -5924,12 +5916,20 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 229
+  - rank: 228
     name: ""
     login: "Kbz-IT"
     avatarUrl: https://avatars.githubusercontent.com/u/69463642?v=4
     contributions: 0
     company: "Micronium"
+    organizations: ""
+
+  - rank: 229
+    name: "Maximus"
+    login: "maximus196"
+    avatarUrl: https://avatars.githubusercontent.com/u/57839461?u=d2c98e014efe286aaf4c2d6a5e8dd671710d8122&v=4
+    contributions: 0
+    company: "BS Gabon"
     organizations: ""
 
   - rank: 230
@@ -6077,14 +6077,6 @@ private_users:
     organizations: ""
 
   - rank: 248
-    name: "Paterne DIBACKA"
-    login: "tbadepat"
-    avatarUrl: https://avatars.githubusercontent.com/u/11478306?u=dd304116ac17a14527b3857d98372a35b1671d7e&v=4
-    contributions: 0
-    company: "SEM"
-    organizations: ""
-
-  - rank: 249
     name: "Ousseyni TIAMA"
     login: "thity14"
     avatarUrl: https://avatars.githubusercontent.com/u/79253533?u=7ce34c9261649b1f3ef25de56e2d54c360b57d69&v=4
@@ -6092,7 +6084,7 @@ private_users:
     company: "Institut Africain d'Informatique"
     organizations: ""
 
-  - rank: 250
+  - rank: 249
     name: "Menany Walty"
     login: "waltysama"
     avatarUrl: https://avatars.githubusercontent.com/u/29609768?v=4
@@ -6100,7 +6092,7 @@ private_users:
     company: "orixas"
     organizations: ""
 
-  - rank: 251
+  - rank: 250
     name: "Yabre Oumar"
     login: "yabross"
     avatarUrl: https://avatars.githubusercontent.com/u/28543054?v=4
@@ -6108,7 +6100,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 252
+  - rank: 251
     name: "OBH"
     login: "HerveOssavou"
     avatarUrl: https://avatars.githubusercontent.com/u/22029070?v=4
@@ -6116,7 +6108,7 @@ private_users:
     company: ""
     organizations: ""
 
-  - rank: 253
+  - rank: 252
     name: "Justinho MIKALA"
     login: "justinhomikala"
     avatarUrl: https://avatars.githubusercontent.com/u/54251151?u=1149b59c7fb049cb87c666f5ab6b22614fc49edf&v=4
@@ -6124,7 +6116,7 @@ private_users:
     company: "Asdecod"
     organizations: ""
 
-  - rank: 254
+  - rank: 253
     name: "Kami-sama"
     login: "Mr-Nobody117"
     avatarUrl: https://avatars.githubusercontent.com/u/37465079?u=1b23f5ff458f93eda6c1afdd688d3a19f5a2bb7d&v=4
@@ -6132,12 +6124,20 @@ private_users:
     company: "Zaun StartUp"
     organizations: ""
 
-  - rank: 255
+  - rank: 254
     name: "Henry Mdjiyengar"
     login: "Boyca235"
     avatarUrl: https://avatars.githubusercontent.com/u/51931742?v=4
     contributions: 0
     company: ""
+    organizations: ""
+
+  - rank: 255
+    name: "Paterne DIBACKA"
+    login: "tbadepat"
+    avatarUrl: https://avatars.githubusercontent.com/u/11478306?u=dd304116ac17a14527b3857d98372a35b1671d7e&v=4
+    contributions: 0
+    company: "SEM"
     organizations: ""
 
   - rank: 256
@@ -6151,105 +6151,105 @@ private_users:
 organizations:
 
   - rank: 1
-    name: "digital-iai"
-    membercount: 1
-
-  - rank: 2
-    name: "loona-inc"
-    membercount: 1
-
-  - rank: 3
-    name: "alainserge"
-    membercount: 1
-
-  - rank: 4
-    name: "ariagabon"
-    membercount: 1
-
-  - rank: 5
-    name: "codarisga"
-    membercount: 1
-
-  - rank: 6
     name: "leyoussi"
     membercount: 1
 
-  - rank: 7
+  - rank: 2
     name: "eaglein"
     membercount: 1
 
-  - rank: 8
+  - rank: 3
     name: "muk1te"
+    membercount: 1
+
+  - rank: 4
+    name: "digital-iai"
+    membercount: 1
+
+  - rank: 5
+    name: "loona-inc"
+    membercount: 1
+
+  - rank: 6
+    name: "alainserge"
+    membercount: 1
+
+  - rank: 7
+    name: "ariagabon"
+    membercount: 1
+
+  - rank: 8
+    name: "codarisga"
     membercount: 1
 
 public_contributions_organizations:
 
   - rank: 1
-    name: "alainserge"
-    membercount: 1
-
-  - rank: 2
-    name: "leyoussi"
-    membercount: 1
-
-  - rank: 3
-    name: "eaglein"
-    membercount: 1
-
-  - rank: 4
     name: "muk1te"
     membercount: 1
 
-  - rank: 5
+  - rank: 2
     name: "loona-inc"
     membercount: 1
 
-  - rank: 6
+  - rank: 3
     name: "digital-iai"
     membercount: 1
 
-  - rank: 7
+  - rank: 4
     name: "ariagabon"
     membercount: 1
 
-  - rank: 8
+  - rank: 5
     name: "codarisga"
+    membercount: 1
+
+  - rank: 6
+    name: "alainserge"
+    membercount: 1
+
+  - rank: 7
+    name: "leyoussi"
+    membercount: 1
+
+  - rank: 8
+    name: "eaglein"
     membercount: 1
 
 private_organizations:
 
   - rank: 1
-    name: "eaglein"
+    name: "leyoussi"
     membercount: 1
 
   - rank: 2
-    name: "muk1te"
+    name: "eaglein"
     membercount: 1
 
   - rank: 3
-    name: "digital-iai"
+    name: "muk1te"
     membercount: 1
 
   - rank: 4
-    name: "loona-inc"
+    name: "digital-iai"
     membercount: 1
 
   - rank: 5
-    name: "ariagabon"
+    name: "loona-inc"
     membercount: 1
 
   - rank: 6
-    name: "codarisga"
+    name: "ariagabon"
     membercount: 1
 
   - rank: 7
-    name: "alainserge"
+    name: "codarisga"
     membercount: 1
 
   - rank: 8
-    name: "leyoussi"
+    name: "alainserge"
     membercount: 1
-generated: 2024-08-05T02:15:38Z
+generated: 2024-08-07T02:15:46Z
 min_followers_required: 0
 total_user_count: 258
 title: Gabon
