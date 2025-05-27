@@ -1,6 +1,6 @@
 on:
   workflow_dispatch:
-  schedule: [{ cron: "0 */2 * * *" }]
+  schedule: [{ cron: "0 0 * * *" }]
   push: { branches: ["master", "main"] }
 
 name: Update Top Rank
