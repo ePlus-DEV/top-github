@@ -160,9 +160,18 @@ Pages:
 			dataNode, ok := rootNode["data"].(map[string]interface{})
 			if !ok {
 				retryCount++
-				if retryCount < maxRetryCount {
+				errorMsg := strPropOrEmpty(rootNode, "message")
+				if errorMsg != "" {
+					log.Printf("Error accessing data element. Message: %s", errorMsg)
+				} else {
 					log.Println("Error accessing data element")
-					time.Sleep(10 * time.Second)
+				}
+				if retryCount < maxRetryCount {
+					waitDuration := 10 * time.Second
+					if strings.Contains(strings.ToLower(errorMsg), "secondary rate limit") {
+						waitDuration = 65 * time.Second
+					}
+					time.Sleep(waitDuration)
 					continue Pages
 				} else {
 					log.Fatalln("Too many errors received. Quitting.")
